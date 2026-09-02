@@ -197,6 +197,201 @@
   {
     "id": 16,
     "category": "Present Perfect",
+    "prompt": "They ______ shares in the company since 2020.",
+    "options": [
+      "have owned",
+      "have been owning",
+      "are owning",
+      "own"
+    ],
+    "correct": 0,
+    "explanation": "\"Own\" is a stative verb, so it stays in Present Perfect SIMPLE — never continuous — even with \"for/since.\""
+  },
+  {
+    "id": 17,
+    "category": "Present Perfect",
+    "prompt": "We ______ in this approach since the merger.",
+    "options": [
+      "have believed",
+      "have been believing",
+      "are believing",
+      "believe"
+    ],
+    "correct": 0,
+    "explanation": "\"Believe\" is a stative verb, so it stays in Present Perfect SIMPLE — never continuous — even with \"for/since.\""
+  },
+  {
+    "id": 18,
+    "category": "Present Perfect",
+    "prompt": "I ______ concerns about this since the review.",
+    "options": [
+      "have had",
+      "have been having",
+      "am having",
+      "have"
+    ],
+    "correct": 0,
+    "explanation": "\"Have\" is a stative verb, so it stays in Present Perfect SIMPLE — never continuous — even with \"for/since.\""
+  },
+  {
+    "id": 19,
+    "category": "Present Perfect",
+    "prompt": "She ______ the market since she joined.",
+    "options": [
+      "has understood",
+      "has been understanding",
+      "is understanding",
+      "understands"
+    ],
+    "correct": 0,
+    "explanation": "\"Understand\" is a stative verb, so it stays in Present Perfect SIMPLE — never continuous — even with \"for/since.\""
+  },
+  {
+    "id": 20,
+    "category": "Present Perfect",
+    "prompt": "He ______ to this club since university.",
+    "options": [
+      "has belonged",
+      "has been belonging",
+      "is belonging",
+      "belongs"
+    ],
+    "correct": 0,
+    "explanation": "\"Belong\" is a stative verb, so it stays in Present Perfect SIMPLE — never continuous — even with \"for/since.\""
+  },
+  {
+    "id": 21,
+    "category": "Present Perfect",
+    "prompt": "You ______ this routine since you started.",
+    "options": [
+      "have liked",
+      "have been liking",
+      "are liking",
+      "like"
+    ],
+    "correct": 0,
+    "explanation": "\"Like\" is a stative verb, so it stays in Present Perfect SIMPLE — never continuous — even with \"for/since.\""
+  },
+  {
+    "id": 22,
+    "category": "Present Perfect",
+    "prompt": "We ______ about the issue since Friday.",
+    "options": [
+      "have known",
+      "have been knowing",
+      "are knowing",
+      "know"
+    ],
+    "correct": 0,
+    "explanation": "\"Know\" is a stative verb, so it stays in Present Perfect SIMPLE — never continuous — even with \"for/since.\""
+  },
+  {
+    "id": 23,
+    "category": "Present Perfect",
+    "prompt": "They ______ this policy since 2018.",
+    "options": [
+      "have had",
+      "have been having",
+      "are having",
+      "have"
+    ],
+    "correct": 0,
+    "explanation": "\"Have\" is a stative verb, so it stays in Present Perfect SIMPLE — never continuous — even with \"for/since.\""
+  },
+  {
+    "id": 24,
+    "category": "Present Perfect",
+    "prompt": "I ______ his position since our talk.",
+    "options": [
+      "have understood",
+      "have been understanding",
+      "am understanding",
+      "understand"
+    ],
+    "correct": 0,
+    "explanation": "\"Understand\" is a stative verb, so it stays in Present Perfect SIMPLE — never continuous — even with \"for/since.\""
+  },
+  {
+    "id": 25,
+    "category": "Present Perfect",
+    "prompt": "She ______ this promotion for a long time.",
+    "options": [
+      "has wanted",
+      "has been wanting",
+      "is wanting",
+      "wants"
+    ],
+    "correct": 0,
+    "explanation": "\"Want\" is a stative verb, so it stays in Present Perfect SIMPLE — never continuous — even with \"for/since.\""
+  },
+  {
+    "id": 26,
+    "category": "Present Perfect",
+    "prompt": "He ______ shares in the company since 2016.",
+    "options": [
+      "has owned",
+      "has been owning",
+      "is owning",
+      "owns"
+    ],
+    "correct": 0,
+    "explanation": "\"Own\" is a stative verb, so it stays in Present Perfect SIMPLE — never continuous — even with \"for/since.\""
+  },
+  {
+    "id": 27,
+    "category": "Present Perfect",
+    "prompt": "We ______ this format since we adopted it.",
+    "options": [
+      "have liked",
+      "have been liking",
+      "are liking",
+      "like"
+    ],
+    "correct": 0,
+    "explanation": "\"Like\" is a stative verb, so it stays in Present Perfect SIMPLE — never continuous — even with \"for/since.\""
+  },
+  {
+    "id": 28,
+    "category": "Present Perfect",
+    "prompt": "You ______ in this team since day one.",
+    "options": [
+      "have believed",
+      "have been believing",
+      "are believing",
+      "believe"
+    ],
+    "correct": 0,
+    "explanation": "\"Believe\" is a stative verb, so it stays in Present Perfect SIMPLE — never continuous — even with \"for/since.\""
+  },
+  {
+    "id": 29,
+    "category": "Present Perfect",
+    "prompt": "I ______ to this committee since March.",
+    "options": [
+      "have belonged",
+      "have been belonging",
+      "am belonging",
+      "belong"
+    ],
+    "correct": 0,
+    "explanation": "\"Belong\" is a stative verb, so it stays in Present Perfect SIMPLE — never continuous — even with \"for/since.\""
+  },
+  {
+    "id": 30,
+    "category": "Present Perfect",
+    "prompt": "They ______ each other since the acquisition.",
+    "options": [
+      "have known",
+      "have been knowing",
+      "are knowing",
+      "know"
+    ],
+    "correct": 0,
+    "explanation": "\"Know\" is a stative verb, so it stays in Present Perfect SIMPLE — never continuous — even with \"for/since.\""
+  },
+  {
+    "id": 31,
+    "category": "Present Perfect",
     "prompt": "I ______ that client three times this month.",
     "options": [
       "have visited",
@@ -208,7 +403,7 @@
     "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
   },
   {
-    "id": 17,
+    "id": 32,
     "category": "Present Perfect",
     "prompt": "She ______ her twice today about the report.",
     "options": [
@@ -221,7 +416,7 @@
     "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
   },
   {
-    "id": 18,
+    "id": 33,
     "category": "Present Perfect",
     "prompt": "They ______ this approach before.",
     "options": [
@@ -234,7 +429,7 @@
     "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
   },
   {
-    "id": 19,
+    "id": 34,
     "category": "Present Perfect",
     "prompt": "He ______ the seminar several times.",
     "options": [
@@ -247,7 +442,7 @@
     "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
   },
   {
-    "id": 20,
+    "id": 35,
     "category": "Present Perfect",
     "prompt": "We ______ the first draft.",
     "options": [
@@ -260,7 +455,7 @@
     "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
   },
   {
-    "id": 21,
+    "id": 36,
     "category": "Present Perfect",
     "prompt": "You ______ the report, haven't you.",
     "options": [
@@ -273,7 +468,7 @@
     "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
   },
   {
-    "id": 22,
+    "id": 37,
     "category": "Present Perfect",
     "prompt": "I ______ the invoice to the client.",
     "options": [
@@ -286,7 +481,7 @@
     "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
   },
   {
-    "id": 23,
+    "id": 38,
     "category": "Present Perfect",
     "prompt": "She ______ to the last email.",
     "options": [
@@ -299,7 +494,7 @@
     "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
   },
   {
-    "id": 24,
+    "id": 39,
     "category": "Present Perfect",
     "prompt": "They ______ the proposal twice.",
     "options": [
@@ -312,7 +507,7 @@
     "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
   },
   {
-    "id": 25,
+    "id": 40,
     "category": "Present Perfect",
     "prompt": "He ______ a deadline.",
     "options": [
@@ -325,7 +520,7 @@
     "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
   },
   {
-    "id": 26,
+    "id": 41,
     "category": "Present Perfect",
     "prompt": "We ______ the quarterly report.",
     "options": [
@@ -338,7 +533,7 @@
     "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
   },
   {
-    "id": 27,
+    "id": 42,
     "category": "Present Perfect",
     "prompt": "I ______ the meeting.",
     "options": [
@@ -351,7 +546,7 @@
     "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
   },
   {
-    "id": 28,
+    "id": 43,
     "category": "Present Perfect",
     "prompt": "She ______ him twice this week.",
     "options": [
@@ -364,7 +559,7 @@
     "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
   },
   {
-    "id": 29,
+    "id": 44,
     "category": "Present Perfect",
     "prompt": "They ______ the contract.",
     "options": [
@@ -377,7 +572,7 @@
     "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
   },
   {
-    "id": 30,
+    "id": 45,
     "category": "Present Perfect",
     "prompt": "He ______ this issue several times.",
     "options": [
@@ -390,7 +585,202 @@
     "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
   },
   {
-    "id": 31,
+    "id": 46,
+    "category": "Present Perfect",
+    "prompt": "We ______ the deal.",
+    "options": [
+      "have already closed",
+      "have been already closing",
+      "are already closing",
+      "close"
+    ],
+    "correct": 0,
+    "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
+  },
+  {
+    "id": 47,
+    "category": "Present Perfect",
+    "prompt": "I ______ the supplier twice this week.",
+    "options": [
+      "have called",
+      "have been calling",
+      "am calling",
+      "call"
+    ],
+    "correct": 0,
+    "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
+  },
+  {
+    "id": 48,
+    "category": "Present Perfect",
+    "prompt": "She ______ the request.",
+    "options": [
+      "has already approved",
+      "has been already approving",
+      "is already approving",
+      "approves"
+    ],
+    "correct": 0,
+    "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
+  },
+  {
+    "id": 49,
+    "category": "Present Perfect",
+    "prompt": "They ______ a payment.",
+    "options": [
+      "have never missed",
+      "have been never missing",
+      "are never missing",
+      "miss"
+    ],
+    "correct": 0,
+    "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
+  },
+  {
+    "id": 50,
+    "category": "Present Perfect",
+    "prompt": "He ______ at the office.",
+    "options": [
+      "has just arrived",
+      "has been just arriving",
+      "is just arriving",
+      "arrives"
+    ],
+    "correct": 0,
+    "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
+  },
+  {
+    "id": 51,
+    "category": "Present Perfect",
+    "prompt": "We ______ the records.",
+    "options": [
+      "have already updated",
+      "have been already updating",
+      "are already updating",
+      "update"
+    ],
+    "correct": 0,
+    "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
+  },
+  {
+    "id": 52,
+    "category": "Present Perfect",
+    "prompt": "You ______ three workshops this year.",
+    "options": [
+      "have attended",
+      "have been attending",
+      "are attending",
+      "attend"
+    ],
+    "correct": 0,
+    "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
+  },
+  {
+    "id": 53,
+    "category": "Present Perfect",
+    "prompt": "I ______ the presentation.",
+    "options": [
+      "have not yet finished",
+      "have been not yet finishing",
+      "am not yet finishing",
+      "finish"
+    ],
+    "correct": 0,
+    "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
+  },
+  {
+    "id": 54,
+    "category": "Present Perfect",
+    "prompt": "She ______ her resignation.",
+    "options": [
+      "has just submitted",
+      "has been just submitting",
+      "is just submitting",
+      "submits"
+    ],
+    "correct": 0,
+    "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
+  },
+  {
+    "id": 55,
+    "category": "Present Perfect",
+    "prompt": "They ______ their attendance.",
+    "options": [
+      "have already confirmed",
+      "have been already confirming",
+      "are already confirming",
+      "confirm"
+    ],
+    "correct": 0,
+    "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
+  },
+  {
+    "id": 56,
+    "category": "Present Perfect",
+    "prompt": "He ______ this point twice.",
+    "options": [
+      "has raised",
+      "has been raising",
+      "is raising",
+      "raises"
+    ],
+    "correct": 0,
+    "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
+  },
+  {
+    "id": 57,
+    "category": "Present Perfect",
+    "prompt": "We ______ a shipment.",
+    "options": [
+      "have never delayed",
+      "have been never delaying",
+      "are never delaying",
+      "delay"
+    ],
+    "correct": 0,
+    "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
+  },
+  {
+    "id": 58,
+    "category": "Present Perfect",
+    "prompt": "I ______ the venue.",
+    "options": [
+      "have already booked",
+      "have been already booking",
+      "am already booking",
+      "book"
+    ],
+    "correct": 0,
+    "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
+  },
+  {
+    "id": 59,
+    "category": "Present Perfect",
+    "prompt": "She ______ him three times today.",
+    "options": [
+      "has emailed",
+      "has been emailing",
+      "is emailing",
+      "emails"
+    ],
+    "correct": 0,
+    "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
+  },
+  {
+    "id": 60,
+    "category": "Present Perfect",
+    "prompt": "He ______ the proposal.",
+    "options": [
+      "has already sent",
+      "has been already sending",
+      "is already sending",
+      "sends"
+    ],
+    "correct": 0,
+    "explanation": "When the sentence focuses on HOW MANY times something happened, or uses already/never/just/not yet, use Present Perfect SIMPLE."
+  },
+  {
+    "id": 61,
     "category": "Present Perfect",
     "prompt": "I ______ on this proposal all morning and I'm exhausted.",
     "options": [
@@ -403,7 +793,7 @@
     "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
   },
   {
-    "id": 32,
+    "id": 62,
     "category": "Present Perfect",
     "prompt": "She ______ for the client to call for over an hour.",
     "options": [
@@ -416,7 +806,7 @@
     "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
   },
   {
-    "id": 33,
+    "id": 63,
     "category": "Present Perfect",
     "prompt": "They ______ this deal for weeks now.",
     "options": [
@@ -429,20 +819,20 @@
     "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
   },
   {
-    "id": 34,
+    "id": 64,
     "category": "Present Perfect",
     "prompt": "He ______ reports all day.",
     "options": [
-      "has been runing",
-      "has runed",
-      "is runing",
+      "has been running",
+      "has run",
+      "is running",
       "runs"
     ],
     "correct": 0,
     "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
   },
   {
-    "id": 35,
+    "id": 65,
     "category": "Present Perfect",
     "prompt": "We ______ the budget since 9 a.m..",
     "options": [
@@ -455,7 +845,7 @@
     "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
   },
   {
-    "id": 36,
+    "id": 66,
     "category": "Present Perfect",
     "prompt": "You ______ for this presentation all week, haven't you.",
     "options": [
@@ -468,7 +858,7 @@
     "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
   },
   {
-    "id": 37,
+    "id": 67,
     "category": "Present Perfect",
     "prompt": "I ______ to reach the supplier since yesterday.",
     "options": [
@@ -481,12 +871,12 @@
     "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
   },
   {
-    "id": 38,
+    "id": 68,
     "category": "Present Perfect",
     "prompt": "She ______ this project for six months now.",
     "options": [
       "has been leading",
-      "has leaded",
+      "has led",
       "is leading",
       "leads"
     ],
@@ -494,7 +884,7 @@
     "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
   },
   {
-    "id": 39,
+    "id": 69,
     "category": "Present Perfect",
     "prompt": "They ______ technical problems all call.",
     "options": [
@@ -507,7 +897,7 @@
     "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
   },
   {
-    "id": 40,
+    "id": 70,
     "category": "Present Perfect",
     "prompt": "He ______ for a new supplier for weeks.",
     "options": [
@@ -520,7 +910,7 @@
     "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
   },
   {
-    "id": 41,
+    "id": 71,
     "category": "Present Perfect",
     "prompt": "We ______ for approval since Tuesday.",
     "options": [
@@ -533,7 +923,7 @@
     "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
   },
   {
-    "id": 42,
+    "id": 72,
     "category": "Present Perfect",
     "prompt": "I ______ these contracts all afternoon.",
     "options": [
@@ -546,7 +936,7 @@
     "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
   },
   {
-    "id": 43,
+    "id": 73,
     "category": "Present Perfect",
     "prompt": "She ______ between two offices since last month.",
     "options": [
@@ -559,20 +949,20 @@
     "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
   },
   {
-    "id": 44,
+    "id": 74,
     "category": "Present Perfect",
     "prompt": "They ______ this launch for months.",
     "options": [
-      "have been planing",
-      "have planed",
-      "are planing",
+      "have been planning",
+      "have planned",
+      "are planning",
       "plan"
     ],
     "correct": 0,
     "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
   },
   {
-    "id": 45,
+    "id": 75,
     "category": "Present Perfect",
     "prompt": "He ______ the new hires all week.",
     "options": [
@@ -585,11 +975,206 @@
     "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
   },
   {
-    "id": 46,
+    "id": 76,
+    "category": "Present Perfect",
+    "prompt": "I ______ with this supplier for weeks.",
+    "options": [
+      "have been negotiating",
+      "have negotiated",
+      "am negotiating",
+      "negotiate"
+    ],
+    "correct": 0,
+    "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
+  },
+  {
+    "id": 77,
+    "category": "Present Perfect",
+    "prompt": "She ______ this report all day.",
+    "options": [
+      "has been preparing",
+      "has prepared",
+      "is preparing",
+      "prepares"
+    ],
+    "correct": 0,
+    "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
+  },
+  {
+    "id": 78,
+    "category": "Present Perfect",
+    "prompt": "They ______ the merger for months.",
+    "options": [
+      "have been discussing",
+      "have discussed",
+      "are discussing",
+      "discuss"
+    ],
+    "correct": 0,
+    "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
+  },
+  {
+    "id": 79,
+    "category": "Present Perfect",
+    "prompt": "He ______ for a reply since Monday.",
+    "options": [
+      "has been waiting",
+      "has waited",
+      "is waiting",
+      "waits"
+    ],
+    "correct": 0,
+    "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
+  },
+  {
+    "id": 80,
+    "category": "Present Perfect",
+    "prompt": "We ______ applications all week.",
+    "options": [
+      "have been reviewing",
+      "have reviewed",
+      "are reviewing",
+      "review"
+    ],
+    "correct": 0,
+    "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
+  },
+  {
+    "id": 81,
+    "category": "Present Perfect",
+    "prompt": "You ______ on this since January, haven't you.",
+    "options": [
+      "have been working",
+      "have worked",
+      "are working",
+      "work"
+    ],
+    "correct": 0,
+    "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
+  },
+  {
+    "id": 82,
+    "category": "Present Perfect",
+    "prompt": "I ______ this event for weeks.",
+    "options": [
+      "have been planning",
+      "have planned",
+      "am planning",
+      "plan"
+    ],
+    "correct": 0,
+    "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
+  },
+  {
+    "id": 83,
+    "category": "Present Perfect",
+    "prompt": "She ______ new staff all month.",
+    "options": [
+      "has been training",
+      "has trained",
+      "is training",
+      "trains"
+    ],
+    "correct": 0,
+    "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
+  },
+  {
+    "id": 84,
+    "category": "Present Perfect",
+    "prompt": "They ______ the contract since spring.",
+    "options": [
+      "have been negotiating",
+      "have negotiated",
+      "are negotiating",
+      "negotiate"
+    ],
+    "correct": 0,
+    "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
+  },
+  {
+    "id": 85,
+    "category": "Present Perfect",
+    "prompt": "He ______ competitors for days.",
+    "options": [
+      "has been researching",
+      "has researched",
+      "is researching",
+      "researches"
+    ],
+    "correct": 0,
+    "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
+  },
+  {
+    "id": 86,
+    "category": "Present Perfect",
+    "prompt": "We ______ the new system since last week.",
+    "options": [
+      "have been testing",
+      "have tested",
+      "are testing",
+      "test"
+    ],
+    "correct": 0,
+    "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
+  },
+  {
+    "id": 87,
+    "category": "Present Perfect",
+    "prompt": "I ______ the proposal all night.",
+    "options": [
+      "have been revising",
+      "have revised",
+      "am revising",
+      "revise"
+    ],
+    "correct": 0,
+    "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
+  },
+  {
+    "id": 88,
+    "category": "Present Perfect",
+    "prompt": "She ______ with vendors for weeks.",
+    "options": [
+      "has been coordinating",
+      "has coordinated",
+      "is coordinating",
+      "coordinates"
+    ],
+    "correct": 0,
+    "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
+  },
+  {
+    "id": 89,
+    "category": "Present Perfect",
+    "prompt": "They ______ the market since the launch.",
+    "options": [
+      "have been monitoring",
+      "have monitored",
+      "are monitoring",
+      "monitor"
+    ],
+    "correct": 0,
+    "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
+  },
+  {
+    "id": 90,
+    "category": "Present Perfect",
+    "prompt": "She ______ the accounts for days.",
+    "options": [
+      "has been auditing",
+      "has audited",
+      "is auditing",
+      "audits"
+    ],
+    "correct": 0,
+    "explanation": "The sentence emphasizes the ongoing activity and its duration — use Present Perfect CONTINUOUS."
+  },
+  {
+    "id": 91,
     "category": "Present Perfect",
     "prompt": "I ______ my badge — I can't get into the office.",
     "options": [
-      "have losed",
+      "have lost",
       "have been losing",
       "am losing",
       "lose"
@@ -598,7 +1183,7 @@
     "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
   },
   {
-    "id": 47,
+    "id": 92,
     "category": "Present Perfect",
     "prompt": "She ______ the report, so we can send it now.",
     "options": [
@@ -611,7 +1196,7 @@
     "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
   },
   {
-    "id": 48,
+    "id": 93,
     "category": "Present Perfect",
     "prompt": "They ______ the contract, so the deal is official.",
     "options": [
@@ -624,7 +1209,7 @@
     "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
   },
   {
-    "id": 49,
+    "id": 94,
     "category": "Present Perfect",
     "prompt": "He ______ the bug, so the system is working again.",
     "options": [
@@ -637,7 +1222,7 @@
     "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
   },
   {
-    "id": 50,
+    "id": 95,
     "category": "Present Perfect",
     "prompt": "We ______ the invoice, so it should arrive tomorrow.",
     "options": [
@@ -650,20 +1235,20 @@
     "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
   },
   {
-    "id": 51,
+    "id": 96,
     "category": "Present Perfect",
     "prompt": "You ______ your password, haven't you.",
     "options": [
       "have forgotten",
-      "have been forgeting",
-      "are forgeting",
+      "have been forgetting",
+      "are forgetting",
       "forget"
     ],
     "correct": 0,
     "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
   },
   {
-    "id": 52,
+    "id": 97,
     "category": "Present Perfect",
     "prompt": "I ______ the flights, so we're all set for the trip.",
     "options": [
@@ -676,7 +1261,7 @@
     "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
   },
   {
-    "id": 53,
+    "id": 98,
     "category": "Present Perfect",
     "prompt": "She ______ the company, so we need a new contact.",
     "options": [
@@ -689,7 +1274,7 @@
     "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
   },
   {
-    "id": 54,
+    "id": 99,
     "category": "Present Perfect",
     "prompt": "They ______ the meeting, so we're free this afternoon.",
     "options": [
@@ -702,7 +1287,7 @@
     "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
   },
   {
-    "id": 55,
+    "id": 100,
     "category": "Present Perfect",
     "prompt": "He ______ the software, so it should run faster now.",
     "options": [
@@ -715,7 +1300,7 @@
     "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
   },
   {
-    "id": 56,
+    "id": 101,
     "category": "Present Perfect",
     "prompt": "We ______ the deal, so the team is celebrating.",
     "options": [
@@ -728,20 +1313,20 @@
     "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
   },
   {
-    "id": 57,
+    "id": 102,
     "category": "Present Perfect",
     "prompt": "I ______ the form, so it's in the system now.",
     "options": [
-      "have submited",
-      "have been submiting",
-      "am submiting",
+      "have submitted",
+      "have been submitting",
+      "am submitting",
       "submit"
     ],
     "correct": 0,
     "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
   },
   {
-    "id": 58,
+    "id": 103,
     "category": "Present Perfect",
     "prompt": "She ______ the budget, so we can proceed.",
     "options": [
@@ -754,7 +1339,7 @@
     "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
   },
   {
-    "id": 59,
+    "id": 104,
     "category": "Present Perfect",
     "prompt": "They ______ the package, so you can pick it up.",
     "options": [
@@ -767,7 +1352,7 @@
     "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
   },
   {
-    "id": 60,
+    "id": 105,
     "category": "Present Perfect",
     "prompt": "He ______ the issue, so the client is happy now.",
     "options": [
@@ -780,7 +1365,202 @@
     "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
   },
   {
-    "id": 61,
+    "id": 106,
+    "category": "Present Perfect",
+    "prompt": "I ______ the booking, so we're ready.",
+    "options": [
+      "have confirmed",
+      "have been confirming",
+      "am confirming",
+      "confirm"
+    ],
+    "correct": 0,
+    "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
+  },
+  {
+    "id": 107,
+    "category": "Present Perfect",
+    "prompt": "She ______ the report, so it's live now.",
+    "options": [
+      "has published",
+      "has been publishing",
+      "is publishing",
+      "publishes"
+    ],
+    "correct": 0,
+    "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
+  },
+  {
+    "id": 108,
+    "category": "Present Perfect",
+    "prompt": "They ______ a new manager, so the team is complete.",
+    "options": [
+      "have hired",
+      "have been hiring",
+      "are hiring",
+      "hire"
+    ],
+    "correct": 0,
+    "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
+  },
+  {
+    "id": 109,
+    "category": "Present Perfect",
+    "prompt": "He ______ the printer, so it's working again.",
+    "options": [
+      "has repaired",
+      "has been repairing",
+      "is repairing",
+      "repairs"
+    ],
+    "correct": 0,
+    "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
+  },
+  {
+    "id": 110,
+    "category": "Present Perfect",
+    "prompt": "We ______ the campaign, so results should come soon.",
+    "options": [
+      "have launched",
+      "have been launching",
+      "are launching",
+      "launch"
+    ],
+    "correct": 0,
+    "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
+  },
+  {
+    "id": 111,
+    "category": "Present Perfect",
+    "prompt": "You ______ the deadline, haven't you.",
+    "options": [
+      "have missed",
+      "have been missing",
+      "are missing",
+      "miss"
+    ],
+    "correct": 0,
+    "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
+  },
+  {
+    "id": 112,
+    "category": "Present Perfect",
+    "prompt": "I ______ the contract, so we're covered.",
+    "options": [
+      "have renewed",
+      "have been renewing",
+      "am renewing",
+      "renew"
+    ],
+    "correct": 0,
+    "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
+  },
+  {
+    "id": 113,
+    "category": "Present Perfect",
+    "prompt": "She ______ the offer, so we need alternatives.",
+    "options": [
+      "has rejected",
+      "has been rejecting",
+      "is rejecting",
+      "rejects"
+    ],
+    "correct": 0,
+    "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
+  },
+  {
+    "id": 114,
+    "category": "Present Perfect",
+    "prompt": "They ______ the audit, so the report is ready.",
+    "options": [
+      "have completed",
+      "have been completing",
+      "are completing",
+      "complete"
+    ],
+    "correct": 0,
+    "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
+  },
+  {
+    "id": 115,
+    "category": "Present Perfect",
+    "prompt": "He ______ the update, so it should run smoothly.",
+    "options": [
+      "has installed",
+      "has been installing",
+      "is installing",
+      "installs"
+    ],
+    "correct": 0,
+    "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
+  },
+  {
+    "id": 116,
+    "category": "Present Perfect",
+    "prompt": "We ______ the budget, so it's locked in.",
+    "options": [
+      "have finalized",
+      "have been finalizing",
+      "are finalizing",
+      "finalize"
+    ],
+    "correct": 0,
+    "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
+  },
+  {
+    "id": 117,
+    "category": "Present Perfect",
+    "prompt": "I ______ the details, so everything's set.",
+    "options": [
+      "have confirmed",
+      "have been confirming",
+      "am confirming",
+      "confirm"
+    ],
+    "correct": 0,
+    "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
+  },
+  {
+    "id": 118,
+    "category": "Present Perfect",
+    "prompt": "She ______ the issue, so the client is satisfied.",
+    "options": [
+      "has solved",
+      "has been solving",
+      "is solving",
+      "solves"
+    ],
+    "correct": 0,
+    "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
+  },
+  {
+    "id": 119,
+    "category": "Present Perfect",
+    "prompt": "They ______ the meeting, so we have more time.",
+    "options": [
+      "have postponed",
+      "have been postponing",
+      "are postponing",
+      "postpone"
+    ],
+    "correct": 0,
+    "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
+  },
+  {
+    "id": 120,
+    "category": "Present Perfect",
+    "prompt": "We ______ the data, so it's accurate now.",
+    "options": [
+      "have verified",
+      "have been verifying",
+      "are verifying",
+      "verify"
+    ],
+    "correct": 0,
+    "explanation": "This describes a finished action with a clear result NOW — that's the classic use of Present Perfect SIMPLE."
+  },
+  {
+    "id": 121,
     "category": "Future Forms",
     "prompt": "The train ______ at 8:30 this evening.",
     "options": [
@@ -793,7 +1573,7 @@
     "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
   },
   {
-    "id": 62,
+    "id": 122,
     "category": "Future Forms",
     "prompt": "The meeting ______ at 9 sharp on Monday.",
     "options": [
@@ -806,12 +1586,12 @@
     "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
   },
   {
-    "id": 63,
+    "id": 123,
     "category": "Future Forms",
     "prompt": "The movie ______ at 8 PM.",
     "options": [
       "begins",
-      "is begining",
+      "is beginning",
       "is going to begin",
       "will begin"
     ],
@@ -819,7 +1599,7 @@
     "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
   },
   {
-    "id": 64,
+    "id": 124,
     "category": "Future Forms",
     "prompt": "The flight ______ at 6 AM tomorrow.",
     "options": [
@@ -832,7 +1612,7 @@
     "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
   },
   {
-    "id": 65,
+    "id": 125,
     "category": "Future Forms",
     "prompt": "Her class ______ at 3:30 today.",
     "options": [
@@ -845,7 +1625,7 @@
     "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
   },
   {
-    "id": 66,
+    "id": 126,
     "category": "Future Forms",
     "prompt": "The store ______ at 9 tomorrow.",
     "options": [
@@ -858,7 +1638,7 @@
     "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
   },
   {
-    "id": 67,
+    "id": 127,
     "category": "Future Forms",
     "prompt": "The conference ______ next Tuesday.",
     "options": [
@@ -871,7 +1651,7 @@
     "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
   },
   {
-    "id": 68,
+    "id": 128,
     "category": "Future Forms",
     "prompt": "The shop ______ at 6 on Saturdays.",
     "options": [
@@ -884,12 +1664,12 @@
     "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
   },
   {
-    "id": 69,
+    "id": 129,
     "category": "Future Forms",
     "prompt": "The webinar ______ at noon.",
     "options": [
       "begins",
-      "is begining",
+      "is beginning",
       "is going to begin",
       "will begin"
     ],
@@ -897,7 +1677,7 @@
     "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
   },
   {
-    "id": 70,
+    "id": 130,
     "category": "Future Forms",
     "prompt": "The season ______ in March.",
     "options": [
@@ -910,7 +1690,7 @@
     "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
   },
   {
-    "id": 71,
+    "id": 131,
     "category": "Future Forms",
     "prompt": "The bus ______ at 7:15 every morning.",
     "options": [
@@ -923,7 +1703,7 @@
     "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
   },
   {
-    "id": 72,
+    "id": 132,
     "category": "Future Forms",
     "prompt": "The show ______ at 8 tonight.",
     "options": [
@@ -936,7 +1716,7 @@
     "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
   },
   {
-    "id": 73,
+    "id": 133,
     "category": "Future Forms",
     "prompt": "The term ______ next week.",
     "options": [
@@ -949,7 +1729,7 @@
     "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
   },
   {
-    "id": 74,
+    "id": 134,
     "category": "Future Forms",
     "prompt": "The ferry ______ at 10 AM.",
     "options": [
@@ -962,7 +1742,7 @@
     "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
   },
   {
-    "id": 75,
+    "id": 135,
     "category": "Future Forms",
     "prompt": "The office ______ on Monday.",
     "options": [
@@ -975,7 +1755,202 @@
     "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
   },
   {
-    "id": 76,
+    "id": 136,
+    "category": "Future Forms",
+    "prompt": "The plane ______ at 7 AM sharp.",
+    "options": [
+      "departs",
+      "is departing",
+      "is going to depart",
+      "will depart"
+    ],
+    "correct": 0,
+    "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
+  },
+  {
+    "id": 137,
+    "category": "Future Forms",
+    "prompt": "The workshop ______ at 10 on Thursday.",
+    "options": [
+      "starts",
+      "is starting",
+      "is going to start",
+      "will start"
+    ],
+    "correct": 0,
+    "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
+  },
+  {
+    "id": 138,
+    "category": "Future Forms",
+    "prompt": "The store ______ at 8 tonight.",
+    "options": [
+      "closes",
+      "is closing",
+      "is going to close",
+      "will close"
+    ],
+    "correct": 0,
+    "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
+  },
+  {
+    "id": 139,
+    "category": "Future Forms",
+    "prompt": "Her flight ______ at midnight.",
+    "options": [
+      "lands",
+      "is landing",
+      "is going to land",
+      "will land"
+    ],
+    "correct": 0,
+    "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
+  },
+  {
+    "id": 140,
+    "category": "Future Forms",
+    "prompt": "The training ______ next Monday.",
+    "options": [
+      "begins",
+      "is beginning",
+      "is going to begin",
+      "will begin"
+    ],
+    "correct": 0,
+    "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
+  },
+  {
+    "id": 141,
+    "category": "Future Forms",
+    "prompt": "The library ______ at 8 AM.",
+    "options": [
+      "opens",
+      "is opening",
+      "is going to open",
+      "will open"
+    ],
+    "correct": 0,
+    "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
+  },
+  {
+    "id": 142,
+    "category": "Future Forms",
+    "prompt": "The play ______ at 7:30.",
+    "options": [
+      "starts",
+      "is starting",
+      "is going to start",
+      "will start"
+    ],
+    "correct": 0,
+    "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
+  },
+  {
+    "id": 143,
+    "category": "Future Forms",
+    "prompt": "The semester ______ in June.",
+    "options": [
+      "ends",
+      "is ending",
+      "is going to end",
+      "will end"
+    ],
+    "correct": 0,
+    "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
+  },
+  {
+    "id": 144,
+    "category": "Future Forms",
+    "prompt": "The shuttle ______ every hour.",
+    "options": [
+      "leaves",
+      "is leaving",
+      "is going to leave",
+      "will leave"
+    ],
+    "correct": 0,
+    "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
+  },
+  {
+    "id": 145,
+    "category": "Future Forms",
+    "prompt": "The exhibition ______ on Sunday.",
+    "options": [
+      "closes",
+      "is closing",
+      "is going to close",
+      "will close"
+    ],
+    "correct": 0,
+    "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
+  },
+  {
+    "id": 146,
+    "category": "Future Forms",
+    "prompt": "The gym ______ at 6 AM.",
+    "options": [
+      "opens",
+      "is opening",
+      "is going to open",
+      "will open"
+    ],
+    "correct": 0,
+    "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
+  },
+  {
+    "id": 147,
+    "category": "Future Forms",
+    "prompt": "The concert ______ at 9 PM.",
+    "options": [
+      "starts",
+      "is starting",
+      "is going to start",
+      "will start"
+    ],
+    "correct": 0,
+    "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
+  },
+  {
+    "id": 148,
+    "category": "Future Forms",
+    "prompt": "The course ______ in September.",
+    "options": [
+      "begins",
+      "is beginning",
+      "is going to begin",
+      "will begin"
+    ],
+    "correct": 0,
+    "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
+  },
+  {
+    "id": 149,
+    "category": "Future Forms",
+    "prompt": "The market ______ at 5 on weekdays.",
+    "options": [
+      "closes",
+      "is closing",
+      "is going to close",
+      "will close"
+    ],
+    "correct": 0,
+    "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
+  },
+  {
+    "id": 150,
+    "category": "Future Forms",
+    "prompt": "The lecture ______ at 2 PM.",
+    "options": [
+      "starts",
+      "is starting",
+      "is going to start",
+      "will start"
+    ],
+    "correct": 0,
+    "explanation": "This is a fixed timetable/schedule, not a personal plan — use Present Simple."
+  },
+  {
+    "id": 151,
     "category": "Future Forms",
     "prompt": "I ______ the suppliers tomorrow.",
     "options": [
@@ -988,7 +1963,7 @@
     "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
   },
   {
-    "id": 77,
+    "id": 152,
     "category": "Future Forms",
     "prompt": "She ______ a leaving party next week.",
     "options": [
@@ -1001,7 +1976,7 @@
     "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
   },
   {
-    "id": 78,
+    "id": 153,
     "category": "Future Forms",
     "prompt": "We ______ the US team on Friday.",
     "options": [
@@ -1014,7 +1989,7 @@
     "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
   },
   {
-    "id": 79,
+    "id": 154,
     "category": "Future Forms",
     "prompt": "They ______ the product next month — it's all set.",
     "options": [
@@ -1027,7 +2002,7 @@
     "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
   },
   {
-    "id": 80,
+    "id": 155,
     "category": "Future Forms",
     "prompt": "He ______ the seminar tomorrow — he already registered.",
     "options": [
@@ -1040,7 +2015,7 @@
     "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
   },
   {
-    "id": 81,
+    "id": 156,
     "category": "Future Forms",
     "prompt": "I ______ to Berlin on Thursday — I have the ticket.",
     "options": [
@@ -1053,7 +2028,7 @@
     "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
   },
   {
-    "id": 82,
+    "id": 157,
     "category": "Future Forms",
     "prompt": "She ______ her new job next Monday.",
     "options": [
@@ -1066,7 +2041,7 @@
     "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
   },
   {
-    "id": 83,
+    "id": 158,
     "category": "Future Forms",
     "prompt": "We ______ the results on Wednesday.",
     "options": [
@@ -1079,7 +2054,7 @@
     "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
   },
   {
-    "id": 84,
+    "id": 159,
     "category": "Future Forms",
     "prompt": "They ______ candidates all week — it's on the calendar.",
     "options": [
@@ -1092,7 +2067,7 @@
     "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
   },
   {
-    "id": 85,
+    "id": 160,
     "category": "Future Forms",
     "prompt": "He ______ the call at 10, he confirmed already.",
     "options": [
@@ -1105,7 +2080,7 @@
     "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
   },
   {
-    "id": 86,
+    "id": 161,
     "category": "Future Forms",
     "prompt": "I ______ the client this afternoon.",
     "options": [
@@ -1118,7 +2093,7 @@
     "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
   },
   {
-    "id": 87,
+    "id": 162,
     "category": "Future Forms",
     "prompt": "She ______ the contract tomorrow morning.",
     "options": [
@@ -1131,7 +2106,7 @@
     "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
   },
   {
-    "id": 88,
+    "id": 163,
     "category": "Future Forms",
     "prompt": "We ______ the workshop next week.",
     "options": [
@@ -1144,7 +2119,7 @@
     "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
   },
   {
-    "id": 89,
+    "id": 164,
     "category": "Future Forms",
     "prompt": "They ______ offices in September — it's confirmed.",
     "options": [
@@ -1157,7 +2132,7 @@
     "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
   },
   {
-    "id": 90,
+    "id": 165,
     "category": "Future Forms",
     "prompt": "He ______ the new hires tomorrow.",
     "options": [
@@ -1170,397 +2145,982 @@
     "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
   },
   {
-    "id": 91,
+    "id": 166,
+    "category": "Future Forms",
+    "prompt": "I ______ the workshop next week — I already signed up.",
+    "options": [
+      "am attending",
+      "will attend",
+      "attend",
+      "am going to attend"
+    ],
+    "correct": 0,
+    "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
+  },
+  {
+    "id": 167,
+    "category": "Future Forms",
+    "prompt": "She ______ the factory on Monday.",
+    "options": [
+      "is visiting",
+      "will visit",
+      "visits",
+      "is going to visit"
+    ],
+    "correct": 0,
+    "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
+  },
+  {
+    "id": 168,
+    "category": "Future Forms",
+    "prompt": "We ______ a client dinner on Friday.",
+    "options": [
+      "are hosting",
+      "will host",
+      "host",
+      "are going to host"
+    ],
+    "correct": 0,
+    "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
+  },
+  {
+    "id": 169,
+    "category": "Future Forms",
+    "prompt": "They ______ to the new office in October — it's confirmed.",
+    "options": [
+      "are relocating",
+      "will relocate",
+      "relocate",
+      "are going to relocate"
+    ],
+    "correct": 0,
+    "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
+  },
+  {
+    "id": 170,
+    "category": "Future Forms",
+    "prompt": "He ______ the results tomorrow.",
+    "options": [
+      "is presenting",
+      "will present",
+      "presents",
+      "is going to present"
+    ],
+    "correct": 0,
+    "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
+  },
+  {
+    "id": 171,
+    "category": "Future Forms",
+    "prompt": "I ______ the investors next Tuesday.",
+    "options": [
+      "am meeting",
+      "will meet",
+      "meet",
+      "am going to meet"
+    ],
+    "correct": 0,
+    "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
+  },
+  {
+    "id": 172,
+    "category": "Future Forms",
+    "prompt": "She ______ the team next month — she accepted the offer.",
+    "options": [
+      "is joining",
+      "will join",
+      "joins",
+      "is going to join"
+    ],
+    "correct": 0,
+    "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
+  },
+  {
+    "id": 173,
+    "category": "Future Forms",
+    "prompt": "We ______ the campaign on the 5th.",
+    "options": [
+      "are launching",
+      "will launch",
+      "launch",
+      "are going to launch"
+    ],
+    "correct": 0,
+    "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
+  },
+  {
+    "id": 174,
+    "category": "Future Forms",
+    "prompt": "They ______ the finalist tomorrow.",
+    "options": [
+      "are interviewing",
+      "will interview",
+      "interview",
+      "are going to interview"
+    ],
+    "correct": 0,
+    "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
+  },
+  {
+    "id": 175,
+    "category": "Future Forms",
+    "prompt": "He ______ his new role on Monday.",
+    "options": [
+      "is starting",
+      "will start",
+      "starts",
+      "is going to start"
+    ],
+    "correct": 0,
+    "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
+  },
+  {
+    "id": 176,
+    "category": "Future Forms",
+    "prompt": "I ______ for the conference on Thursday.",
+    "options": [
+      "am leaving",
+      "will leave",
+      "leave",
+      "am going to leave"
+    ],
+    "correct": 0,
+    "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
+  },
+  {
+    "id": 177,
+    "category": "Future Forms",
+    "prompt": "She ______ at the summit next week.",
+    "options": [
+      "is presenting",
+      "will present",
+      "presents",
+      "is going to present"
+    ],
+    "correct": 0,
+    "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
+  },
+  {
+    "id": 178,
+    "category": "Future Forms",
+    "prompt": "We ______ the deal tomorrow morning.",
+    "options": [
+      "are signing",
+      "will sign",
+      "sign",
+      "are going to sign"
+    ],
+    "correct": 0,
+    "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
+  },
+  {
+    "id": 179,
+    "category": "Future Forms",
+    "prompt": "They ______ new hires next week.",
+    "options": [
+      "are onboarding",
+      "will onboard",
+      "onboard",
+      "are going to onboard"
+    ],
+    "correct": 0,
+    "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
+  },
+  {
+    "id": 180,
+    "category": "Future Forms",
+    "prompt": "I ______ the product tomorrow.",
+    "options": [
+      "am demoing",
+      "will demo",
+      "demo",
+      "am going to demo"
+    ],
+    "correct": 0,
+    "explanation": "This is a confirmed plan/arrangement, usually involving other people — use Present Continuous."
+  },
+  {
+    "id": 181,
     "category": "Future Forms",
     "prompt": "I ______ the suppliers — that's my plan for tomorrow.",
     "options": [
       "am going to visit",
       "will visit",
-      "am visiting",
+      "have visit",
       "visit"
     ],
     "correct": 0,
     "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
   },
   {
-    "id": 92,
+    "id": 182,
     "category": "Future Forms",
     "prompt": "It ______ any minute — look at those clouds!",
     "options": [
       "is going to rain",
       "will rain",
-      "is raining",
+      "have rain",
       "rain"
     ],
     "correct": 0,
     "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
   },
   {
-    "id": 93,
+    "id": 183,
     "category": "Future Forms",
     "prompt": "He ______ soon — he's clearly the best on the team.",
     "options": [
       "is going to get promoted",
       "will get promoted",
-      "is promoteding",
+      "have get promoted",
       "get promoted"
     ],
     "correct": 0,
     "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
   },
   {
-    "id": 94,
+    "id": 184,
     "category": "Future Forms",
     "prompt": "We ______ the software this quarter — it's not planned.",
     "options": [
       "are not going to change",
       "will not change",
-      "are changing",
+      "have change",
       "change"
     ],
     "correct": 0,
     "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
   },
   {
-    "id": 95,
+    "id": 185,
     "category": "Future Forms",
     "prompt": "She ______ for the manager position — she told me.",
     "options": [
       "is going to apply",
       "will apply",
-      "is applying",
+      "have apply",
       "apply"
     ],
     "correct": 0,
     "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
   },
   {
-    "id": 96,
+    "id": 186,
     "category": "Future Forms",
     "prompt": "They ______ into Europe — they've already hired local staff.",
     "options": [
       "are going to expand",
       "will expand",
-      "are expanding",
+      "have expand",
       "expand"
     ],
     "correct": 0,
     "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
   },
   {
-    "id": 97,
+    "id": 187,
     "category": "Future Forms",
     "prompt": "I ______ to the office early tomorrow — that's the plan.",
     "options": [
       "am going to get",
       "will get",
-      "am geting",
+      "have get",
       "get"
     ],
     "correct": 0,
     "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
   },
   {
-    "id": 98,
+    "id": 188,
     "category": "Future Forms",
     "prompt": "The company ______ its targets — look at the numbers.",
     "options": [
       "is going to miss",
       "will miss",
-      "is missing",
+      "have miss",
       "miss"
     ],
     "correct": 0,
     "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
   },
   {
-    "id": 99,
+    "id": 189,
     "category": "Future Forms",
     "prompt": "He ______ — he already told his manager.",
     "options": [
       "is going to quit",
       "will quit",
-      "is quiting",
+      "have quit",
       "quit"
     ],
     "correct": 0,
     "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
   },
   {
-    "id": 100,
+    "id": 190,
     "category": "Future Forms",
     "prompt": "We ______ this client — look at how unhappy they are.",
     "options": [
       "are going to lose",
       "will lose",
-      "are losing",
+      "have lose",
       "lose"
     ],
     "correct": 0,
     "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
   },
   {
-    "id": 101,
+    "id": 191,
     "category": "Future Forms",
     "prompt": "She ______ the new strategy — she's been preparing all week.",
     "options": [
       "is going to present",
       "will present",
-      "is presenting",
+      "have present",
       "present"
     ],
     "correct": 0,
     "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
   },
   {
-    "id": 102,
+    "id": 192,
     "category": "Future Forms",
     "prompt": "They ______ the factory — the paperwork is already signed.",
     "options": [
       "are going to relocate",
       "will relocate",
-      "are relocating",
+      "have relocate",
       "relocate"
     ],
     "correct": 0,
     "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
   },
   {
-    "id": 103,
+    "id": 193,
     "category": "Future Forms",
     "prompt": "I ______ him back — that's what I plan to do.",
     "options": [
       "am going to call",
       "will call",
-      "am calling",
+      "have call",
       "call"
     ],
     "correct": 0,
     "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
   },
   {
-    "id": 104,
+    "id": 194,
     "category": "Future Forms",
     "prompt": "That shelf ______ — watch out!",
     "options": [
       "is going to fall",
       "will fall",
-      "is falling",
+      "have fall",
       "fall"
     ],
     "correct": 0,
     "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
   },
   {
-    "id": 105,
+    "id": 195,
     "category": "Future Forms",
     "prompt": "He ______ next year — he's already told HR.",
     "options": [
       "is going to retire",
       "will retire",
-      "is retiring",
+      "have retire",
       "retire"
     ],
     "correct": 0,
     "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
   },
   {
-    "id": 106,
+    "id": 196,
+    "category": "Future Forms",
+    "prompt": "I ______ this today — that's my plan.",
+    "options": [
+      "am going to finish",
+      "will finish",
+      "have finish",
+      "finish"
+    ],
+    "correct": 0,
+    "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
+  },
+  {
+    "id": 197,
+    "category": "Future Forms",
+    "prompt": "It ______ tonight — look at the sky.",
+    "options": [
+      "is going to storm",
+      "will storm",
+      "have storm",
+      "storm"
+    ],
+    "correct": 0,
+    "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
+  },
+  {
+    "id": 198,
+    "category": "Future Forms",
+    "prompt": "She ______ this award — she's clearly the best candidate.",
+    "options": [
+      "is going to win",
+      "will win",
+      "have win",
+      "win"
+    ],
+    "correct": 0,
+    "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
+  },
+  {
+    "id": 199,
+    "category": "Future Forms",
+    "prompt": "We ______ the team this year — it's decided.",
+    "options": [
+      "are going to expand",
+      "will expand",
+      "have expand",
+      "expand"
+    ],
+    "correct": 0,
+    "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
+  },
+  {
+    "id": 200,
+    "category": "Future Forms",
+    "prompt": "He ______ — he already told me.",
+    "options": [
+      "is going to resign",
+      "will resign",
+      "have resign",
+      "resign"
+    ],
+    "correct": 0,
+    "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
+  },
+  {
+    "id": 201,
+    "category": "Future Forms",
+    "prompt": "They ______ with this deadline — look how behind they are.",
+    "options": [
+      "are going to struggle",
+      "will struggle",
+      "have struggle",
+      "struggle"
+    ],
+    "correct": 0,
+    "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
+  },
+  {
+    "id": 202,
+    "category": "Future Forms",
+    "prompt": "I ______ for that role — that's the plan.",
+    "options": [
+      "am going to apply",
+      "will apply",
+      "have apply",
+      "apply"
+    ],
+    "correct": 0,
+    "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
+  },
+  {
+    "id": 203,
+    "category": "Future Forms",
+    "prompt": "The project ______ — look at the numbers.",
+    "options": [
+      "is going to fail",
+      "will fail",
+      "have fail",
+      "fail"
+    ],
+    "correct": 0,
+    "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
+  },
+  {
+    "id": 204,
+    "category": "Future Forms",
+    "prompt": "She ______ next year — she's already looking at apartments.",
+    "options": [
+      "is going to relocate",
+      "will relocate",
+      "have relocate",
+      "relocate"
+    ],
+    "correct": 0,
+    "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
+  },
+  {
+    "id": 205,
+    "category": "Future Forms",
+    "prompt": "We ______ the deadline — we're way behind.",
+    "options": [
+      "are going to miss",
+      "will miss",
+      "have miss",
+      "miss"
+    ],
+    "correct": 0,
+    "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
+  },
+  {
+    "id": 206,
+    "category": "Future Forms",
+    "prompt": "He ______ — he's put in so much work.",
+    "options": [
+      "is going to succeed",
+      "will succeed",
+      "have succeed",
+      "succeed"
+    ],
+    "correct": 0,
+    "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
+  },
+  {
+    "id": 207,
+    "category": "Future Forms",
+    "prompt": "They ______ with that company — the deal is basically done.",
+    "options": [
+      "are going to merge",
+      "will merge",
+      "have merge",
+      "merge"
+    ],
+    "correct": 0,
+    "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
+  },
+  {
+    "id": 208,
+    "category": "Future Forms",
+    "prompt": "I ______ my approach — that's my decision.",
+    "options": [
+      "am going to change",
+      "will change",
+      "have change",
+      "change"
+    ],
+    "correct": 0,
+    "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
+  },
+  {
+    "id": 209,
+    "category": "Future Forms",
+    "prompt": "That machine ______ — listen to that noise!",
+    "options": [
+      "is going to break",
+      "will break",
+      "have break",
+      "break"
+    ],
+    "correct": 0,
+    "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
+  },
+  {
+    "id": 210,
+    "category": "Future Forms",
+    "prompt": "She ______ the promotion — everyone can see it coming.",
+    "options": [
+      "is going to get",
+      "will get",
+      "have get",
+      "get"
+    ],
+    "correct": 0,
+    "explanation": "This expresses either a personal intention or a prediction based on clear evidence — use \"going to.\""
+  },
+  {
+    "id": 211,
     "category": "Future Forms",
     "prompt": "I think we ______ the contract — I have a good feeling.",
     "options": [
       "will win",
-      "is going to win",
+      "are going to win",
       "win",
-      "am wining"
+      "have win"
     ],
     "correct": 0,
     "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
   },
   {
-    "id": 107,
+    "id": 212,
     "category": "Future Forms",
     "prompt": "Don't worry, I ______ it right now.",
     "options": [
       "will handle",
       "am going to handle",
       "handle",
-      "am handling"
+      "have handle"
     ],
     "correct": 0,
     "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
   },
   {
-    "id": 108,
+    "id": 213,
     "category": "Future Forms",
     "prompt": "It's cold in here — I ______ the window.",
     "options": [
       "will close",
       "am going to close",
       "close",
-      "am closing"
+      "have close"
     ],
     "correct": 0,
     "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
   },
   {
-    "id": 109,
+    "id": 214,
     "category": "Future Forms",
     "prompt": "I ______ you the file in a second, hold on.",
     "options": [
       "will send",
       "am going to send",
       "send",
-      "am sending"
+      "have send"
     ],
     "correct": 0,
     "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
   },
   {
-    "id": 110,
+    "id": 215,
     "category": "Future Forms",
     "prompt": "She ______ to the new terms — she usually does.",
     "options": [
       "will probably agree",
       "is going to probably agree",
       "probably agree",
-      "am agreeing"
+      "have probably agree"
     ],
     "correct": 0,
     "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
   },
   {
-    "id": 111,
+    "id": 216,
     "category": "Future Forms",
     "prompt": "I don't know the answer — I ______ my manager.",
     "options": [
       "will ask",
       "am going to ask",
       "ask",
-      "am asking"
+      "have ask"
     ],
     "correct": 0,
     "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
   },
   {
-    "id": 112,
+    "id": 217,
     "category": "Future Forms",
     "prompt": "He ______ the offer, in my opinion.",
     "options": [
       "will most likely accept",
       "is going to most likely accept",
       "most likely accept",
-      "am accepting"
+      "have most likely accept"
     ],
     "correct": 0,
     "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
   },
   {
-    "id": 113,
+    "id": 218,
     "category": "Future Forms",
     "prompt": "I ______ you back later today.",
     "options": [
       "will call",
       "am going to call",
       "call",
-      "am calling"
+      "have call"
     ],
     "correct": 0,
     "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
   },
   {
-    "id": 114,
+    "id": 219,
     "category": "Future Forms",
     "prompt": "They ______ the launch, I'd guess.",
     "options": [
       "will probably delay",
-      "is going to probably delay",
+      "are going to probably delay",
       "probably delay",
-      "am delaying"
+      "have probably delay"
     ],
     "correct": 0,
     "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
   },
   {
-    "id": 115,
+    "id": 220,
     "category": "Future Forms",
     "prompt": "I'm thirsty — I ______ a coffee.",
     "options": [
       "will grab",
       "am going to grab",
       "grab",
-      "am grabing"
+      "have grab"
     ],
     "correct": 0,
     "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
   },
   {
-    "id": 116,
+    "id": 221,
     "category": "Future Forms",
     "prompt": "I think the market ______ next year.",
     "options": [
       "will recover",
       "is going to recover",
       "recover",
-      "am recovering"
+      "have recover"
     ],
     "correct": 0,
     "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
   },
   {
-    "id": 117,
+    "id": 222,
     "category": "Future Forms",
     "prompt": "Don't worry, I ______ of the invoice.",
     "options": [
       "will take care",
       "am going to take care",
       "take care",
-      "am caring"
+      "have take care"
     ],
     "correct": 0,
     "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
   },
   {
-    "id": 118,
+    "id": 223,
     "category": "Future Forms",
     "prompt": "I ______ you with that report right now.",
     "options": [
       "will help",
       "am going to help",
       "help",
-      "am helping"
+      "have help"
     ],
     "correct": 0,
     "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
   },
   {
-    "id": 119,
+    "id": 224,
     "category": "Future Forms",
     "prompt": "I believe she ______ a great job in that role.",
     "options": [
       "will do",
       "is going to do",
       "do",
-      "am doing"
+      "have do"
     ],
     "correct": 0,
     "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
   },
   {
-    "id": 120,
+    "id": 225,
     "category": "Future Forms",
     "prompt": "It's decided — I ______ at the end of the month.",
     "options": [
       "will resign",
       "am going to resign",
       "resign",
-      "am resigning"
+      "have resign"
     ],
     "correct": 0,
     "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
   },
   {
-    "id": 121,
+    "id": 226,
+    "category": "Future Forms",
+    "prompt": "I promise I ______ you back.",
+    "options": [
+      "will call",
+      "am going to call",
+      "call",
+      "have call"
+    ],
+    "correct": 0,
+    "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
+  },
+  {
+    "id": 227,
+    "category": "Future Forms",
+    "prompt": "I think it ______ later, but I'm not sure.",
+    "options": [
+      "will rain",
+      "is going to rain",
+      "rain",
+      "have rain"
+    ],
+    "correct": 0,
+    "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
+  },
+  {
+    "id": 228,
+    "category": "Future Forms",
+    "prompt": "She ______ the offer, I'd guess.",
+    "options": [
+      "will probably decline",
+      "is going to probably decline",
+      "probably decline",
+      "have probably decline"
+    ],
+    "correct": 0,
+    "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
+  },
+  {
+    "id": 229,
+    "category": "Future Forms",
+    "prompt": "I ______ you the details shortly.",
+    "options": [
+      "will email",
+      "am going to email",
+      "email",
+      "have email"
+    ],
+    "correct": 0,
+    "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
+  },
+  {
+    "id": 230,
+    "category": "Future Forms",
+    "prompt": "He ______ in this role for now.",
+    "options": [
+      "will most likely stay",
+      "is going to most likely stay",
+      "most likely stay",
+      "have most likely stay"
+    ],
+    "correct": 0,
+    "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
+  },
+  {
+    "id": 231,
+    "category": "Future Forms",
+    "prompt": "I'm not sure, but I ______ and let you know.",
+    "options": [
+      "will check",
+      "am going to check",
+      "check",
+      "have check"
+    ],
+    "correct": 0,
+    "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
+  },
+  {
+    "id": 232,
+    "category": "Future Forms",
+    "prompt": "They ______ eventually, in my opinion.",
+    "options": [
+      "will probably agree",
+      "are going to probably agree",
+      "probably agree",
+      "have probably agree"
+    ],
+    "correct": 0,
+    "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
+  },
+  {
+    "id": 233,
+    "category": "Future Forms",
+    "prompt": "I ______ you when I arrive.",
+    "options": [
+      "will text",
+      "am going to text",
+      "text",
+      "have text"
+    ],
+    "correct": 0,
+    "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
+  },
+  {
+    "id": 234,
+    "category": "Future Forms",
+    "prompt": "I think we ______ more time for this.",
+    "options": [
+      "will need",
+      "are going to need",
+      "need",
+      "have need"
+    ],
+    "correct": 0,
+    "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
+  },
+  {
+    "id": 235,
+    "category": "Future Forms",
+    "prompt": "She ______ the position, I believe.",
+    "options": [
+      "will likely accept",
+      "is going to likely accept",
+      "likely accept",
+      "have likely accept"
+    ],
+    "correct": 0,
+    "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
+  },
+  {
+    "id": 236,
+    "category": "Future Forms",
+    "prompt": "Don't worry, I ______ it out.",
+    "options": [
+      "will sort",
+      "am going to sort",
+      "sort",
+      "have sort"
+    ],
+    "correct": 0,
+    "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
+  },
+  {
+    "id": 237,
+    "category": "Future Forms",
+    "prompt": "I ______ you know as soon as I hear back.",
+    "options": [
+      "will let",
+      "am going to let",
+      "let",
+      "have let"
+    ],
+    "correct": 0,
+    "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
+  },
+  {
+    "id": 238,
+    "category": "Future Forms",
+    "prompt": "I guess he ______ about the meeting again.",
+    "options": [
+      "will forget",
+      "is going to forget",
+      "forget",
+      "have forget"
+    ],
+    "correct": 0,
+    "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
+  },
+  {
+    "id": 239,
+    "category": "Future Forms",
+    "prompt": "I ______ lunch after this call.",
+    "options": [
+      "will grab",
+      "am going to grab",
+      "grab",
+      "have grab"
+    ],
+    "correct": 0,
+    "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
+  },
+  {
+    "id": 240,
+    "category": "Future Forms",
+    "prompt": "I think this ______ out fine.",
+    "options": [
+      "will work",
+      "is going to work",
+      "work",
+      "have work"
+    ],
+    "correct": 0,
+    "explanation": "This is a spontaneous decision or an opinion/prediction without firm evidence — use \"will.\""
+  },
+  {
+    "id": 241,
     "category": "Vocabulary",
     "prompt": "What does \"to hang up\" mean?",
     "options": [
@@ -1573,7 +3133,7 @@
     "explanation": "\"To hang up\" means: to end a phone/video call."
   },
   {
-    "id": 122,
+    "id": 242,
     "category": "Vocabulary",
     "prompt": "What does \"to get cut off\" mean?",
     "options": [
@@ -1586,7 +3146,7 @@
     "explanation": "\"To get cut off\" means: to lose the connection unexpectedly."
   },
   {
-    "id": 123,
+    "id": 243,
     "category": "Vocabulary",
     "prompt": "What does \"to be on mute\" mean?",
     "options": [
@@ -1599,7 +3159,7 @@
     "explanation": "\"To be on mute\" means: your microphone is turned off."
   },
   {
-    "id": 124,
+    "id": 244,
     "category": "Vocabulary",
     "prompt": "What does \"to hold on\" mean?",
     "options": [
@@ -1612,7 +3172,7 @@
     "explanation": "\"To hold on\" means: to wait a moment."
   },
   {
-    "id": 125,
+    "id": 245,
     "category": "Vocabulary",
     "prompt": "What does \"all hell has broken loose\" mean?",
     "options": [
@@ -1625,7 +3185,7 @@
     "explanation": "\"All hell has broken loose\" means: everything is in chaos."
   },
   {
-    "id": 126,
+    "id": 246,
     "category": "Vocabulary",
     "prompt": "What does \"to grind to a halt\" mean?",
     "options": [
@@ -1638,7 +3198,7 @@
     "explanation": "\"To grind to a halt\" means: to come to a complete stop."
   },
   {
-    "id": 127,
+    "id": 247,
     "category": "Vocabulary",
     "prompt": "What does \"to turn the call over to someone\" mean?",
     "options": [
@@ -1651,7 +3211,7 @@
     "explanation": "\"To turn the call over to someone\" means: to let someone else be the main speaker."
   },
   {
-    "id": 128,
+    "id": 248,
     "category": "Vocabulary",
     "prompt": "What does \"to open the floor to questions\" mean?",
     "options": [
@@ -1664,7 +3224,7 @@
     "explanation": "\"To open the floor to questions\" means: to allow people to ask questions."
   },
   {
-    "id": 129,
+    "id": 249,
     "category": "Vocabulary",
     "prompt": "What does \"to be in listen-only mode\" mean?",
     "options": [
@@ -1677,7 +3237,7 @@
     "explanation": "\"To be in listen-only mode\" means: you can hear but not speak."
   },
   {
-    "id": 130,
+    "id": 250,
     "category": "Vocabulary",
     "prompt": "What does \"introductory remarks\" mean?",
     "options": [
@@ -1690,7 +3250,7 @@
     "explanation": "\"Introductory remarks\" means: the opening comments of a meeting."
   },
   {
-    "id": 131,
+    "id": 251,
     "category": "Vocabulary",
     "prompt": "What does \"in closing\" mean?",
     "options": [
@@ -1703,7 +3263,7 @@
     "explanation": "\"In closing\" means: used to introduce final comments."
   },
   {
-    "id": 132,
+    "id": 252,
     "category": "Vocabulary",
     "prompt": "What does \"quarterly results\" mean?",
     "options": [
@@ -1716,7 +3276,7 @@
     "explanation": "\"Quarterly results\" means: financial results reported every three months."
   },
   {
-    "id": 133,
+    "id": 253,
     "category": "Vocabulary",
     "prompt": "What does \"though (in small talk)\" mean?",
     "options": [
@@ -1729,7 +3289,7 @@
     "explanation": "\"Though (in small talk)\" means: by the way."
   },
   {
-    "id": 134,
+    "id": 254,
     "category": "Vocabulary",
     "prompt": "What does \"to commute\" mean?",
     "options": [
@@ -1742,7 +3302,7 @@
     "explanation": "\"To commute\" means: to travel regularly for work."
   },
   {
-    "id": 135,
+    "id": 255,
     "category": "Vocabulary",
     "prompt": "What does \"to be up to (something)\" mean?",
     "options": [
@@ -1755,7 +3315,7 @@
     "explanation": "\"To be up to (something)\" means: to be doing something currently."
   },
   {
-    "id": 136,
+    "id": 256,
     "category": "Vocabulary",
     "prompt": "What does \"to look back\" mean?",
     "options": [
@@ -1768,7 +3328,7 @@
     "explanation": "\"To look back\" means: to regret something."
   },
   {
-    "id": 137,
+    "id": 257,
     "category": "Vocabulary",
     "prompt": "What does \"to work your way up\" mean?",
     "options": [
@@ -1781,7 +3341,7 @@
     "explanation": "\"To work your way up\" means: to earn promotions gradually."
   },
   {
-    "id": 138,
+    "id": 258,
     "category": "Vocabulary",
     "prompt": "What does \"to branch out\" mean?",
     "options": [
@@ -1794,7 +3354,7 @@
     "explanation": "\"To branch out\" means: to move into a new field of work."
   },
   {
-    "id": 139,
+    "id": 259,
     "category": "Vocabulary",
     "prompt": "What does \"to be tough (situation)\" mean?",
     "options": [
@@ -1807,7 +3367,7 @@
     "explanation": "\"To be tough (situation)\" means: to be difficult."
   },
   {
-    "id": 140,
+    "id": 260,
     "category": "Vocabulary",
     "prompt": "What does \"to wonder\" mean?",
     "options": [
@@ -1820,7 +3380,7 @@
     "explanation": "\"To wonder\" means: to ask oneself / have doubts."
   },
   {
-    "id": 141,
+    "id": 261,
     "category": "Vocabulary",
     "prompt": "What does \"to be backed up (traffic/queue)\" mean?",
     "options": [
@@ -1833,7 +3393,7 @@
     "explanation": "\"To be backed up (traffic/queue)\" means: to be in a queue, delayed."
   },
   {
-    "id": 142,
+    "id": 262,
     "category": "Vocabulary",
     "prompt": "What does \"there's not a moment to lose\" mean?",
     "options": [
@@ -1846,7 +3406,7 @@
     "explanation": "\"There's not a moment to lose\" means: we must act immediately."
   },
   {
-    "id": 143,
+    "id": 263,
     "category": "Vocabulary",
     "prompt": "What does \"at an unearthly hour\" mean?",
     "options": [
@@ -1859,7 +3419,7 @@
     "explanation": "\"At an unearthly hour\" means: very early or very late, an inconvenient time."
   },
   {
-    "id": 144,
+    "id": 264,
     "category": "Vocabulary",
     "prompt": "What does \"to secure a contract\" mean?",
     "options": [
@@ -1872,7 +3432,7 @@
     "explanation": "\"To secure a contract\" means: to successfully obtain a business deal."
   },
   {
-    "id": 145,
+    "id": 265,
     "category": "Vocabulary",
     "prompt": "What does \"an acquaintance\" mean?",
     "options": [
@@ -1885,7 +3445,7 @@
     "explanation": "\"An acquaintance\" means: someone you know slightly."
   },
   {
-    "id": 146,
+    "id": 266,
     "category": "Vocabulary",
     "prompt": "What does \"hectic\" mean?",
     "options": [
@@ -1898,7 +3458,7 @@
     "explanation": "\"Hectic\" means: chaotic, very busy."
   },
   {
-    "id": 147,
+    "id": 267,
     "category": "Vocabulary",
     "prompt": "What does \"a rough draft\" mean?",
     "options": [
@@ -1911,7 +3471,7 @@
     "explanation": "\"A rough draft\" means: an early, general version of something."
   },
   {
-    "id": 148,
+    "id": 268,
     "category": "Vocabulary",
     "prompt": "What does \"to be in good shape (project)\" mean?",
     "options": [
@@ -1924,7 +3484,7 @@
     "explanation": "\"To be in good shape (project)\" means: to be progressing well."
   },
   {
-    "id": 149,
+    "id": 269,
     "category": "Vocabulary",
     "prompt": "What does \"to give someone the axe\" mean?",
     "options": [
@@ -1937,7 +3497,7 @@
     "explanation": "\"To give someone the axe\" means: to fire someone."
   },
   {
-    "id": 150,
+    "id": 270,
     "category": "Vocabulary",
     "prompt": "What does \"to get ramped (corporate term)\" mean?",
     "options": [
@@ -1950,7 +3510,7 @@
     "explanation": "\"To get ramped (corporate term)\" means: to get promoted."
   },
   {
-    "id": 151,
+    "id": 271,
     "category": "Vocabulary",
     "prompt": "What does \"resume vs. summary\" mean?",
     "options": [
@@ -1963,7 +3523,7 @@
     "explanation": "\"Resume vs. summary\" means: resume = to continue; summary = a short overview."
   },
   {
-    "id": 152,
+    "id": 272,
     "category": "Vocabulary",
     "prompt": "What does \"the floor is yours\" mean?",
     "options": [
@@ -1976,7 +3536,7 @@
     "explanation": "\"The floor is yours\" means: you may speak now."
   },
   {
-    "id": 153,
+    "id": 273,
     "category": "Vocabulary",
     "prompt": "What does \"to leverage analytics\" mean?",
     "options": [
@@ -1989,7 +3549,7 @@
     "explanation": "\"To leverage analytics\" means: to use data to make decisions."
   },
   {
-    "id": 154,
+    "id": 274,
     "category": "Vocabulary",
     "prompt": "What does \"return on investment (ROI)\" mean?",
     "options": [
@@ -2002,7 +3562,7 @@
     "explanation": "\"Return on investment (roi)\" means: the profit gained relative to what was spent."
   },
   {
-    "id": 155,
+    "id": 275,
     "category": "Vocabulary",
     "prompt": "What does \"to foster relationships\" mean?",
     "options": [
@@ -2015,7 +3575,7 @@
     "explanation": "\"To foster relationships\" means: to encourage and build relationships."
   },
   {
-    "id": 156,
+    "id": 276,
     "category": "Vocabulary",
     "prompt": "What does \"business acumen\" mean?",
     "options": [
@@ -2028,7 +3588,7 @@
     "explanation": "\"Business acumen\" means: a natural talent for business."
   },
   {
-    "id": 157,
+    "id": 277,
     "category": "Vocabulary",
     "prompt": "What does \"customer-centric\" mean?",
     "options": [
@@ -2041,7 +3601,7 @@
     "explanation": "\"Customer-centric\" means: focused on the customer's needs."
   },
   {
-    "id": 158,
+    "id": 278,
     "category": "Vocabulary",
     "prompt": "What does \"brand image\" mean?",
     "options": [
@@ -2054,7 +3614,7 @@
     "explanation": "\"Brand image\" means: how the public perceives a company."
   },
   {
-    "id": 159,
+    "id": 279,
     "category": "Vocabulary",
     "prompt": "What does \"stakeholder\" mean?",
     "options": [
@@ -2067,7 +3627,7 @@
     "explanation": "\"Stakeholder\" means: a person with an interest in the business."
   },
   {
-    "id": 160,
+    "id": 280,
     "category": "Vocabulary",
     "prompt": "What does \"supply chain\" mean?",
     "options": [
@@ -2080,7 +3640,527 @@
     "explanation": "\"Supply chain\" means: the process of producing and distributing goods."
   },
   {
-    "id": 161,
+    "id": 281,
+    "category": "Vocabulary",
+    "prompt": "What does \"to fill someone in\" mean?",
+    "options": [
+      "to inform or update someone about a situation",
+      "to hire someone for a role",
+      "to end a conversation abruptly",
+      "to formally complain about someone"
+    ],
+    "correct": 0,
+    "explanation": "\"To fill someone in\" means: to inform or update someone about a situation."
+  },
+  {
+    "id": 282,
+    "category": "Vocabulary",
+    "prompt": "What does \"for the time being\" mean?",
+    "options": [
+      "permanently",
+      "temporarily, for now",
+      "immediately",
+      "never again"
+    ],
+    "correct": 1,
+    "explanation": "\"For the time being\" means: temporarily, for now."
+  },
+  {
+    "id": 283,
+    "category": "Vocabulary",
+    "prompt": "What does \"it grinds my gears\" mean?",
+    "options": [
+      "something that pleases me",
+      "something that annoys/bothers me",
+      "something that confuses me",
+      "something that impresses me"
+    ],
+    "correct": 1,
+    "explanation": "\"It grinds my gears\" means: something that annoys/bothers me."
+  },
+  {
+    "id": 284,
+    "category": "Vocabulary",
+    "prompt": "What does \"straight away\" mean?",
+    "options": [
+      "immediately",
+      "eventually",
+      "occasionally",
+      "never"
+    ],
+    "correct": 0,
+    "explanation": "\"Straight away\" means: immediately."
+  },
+  {
+    "id": 285,
+    "category": "Vocabulary",
+    "prompt": "What does \"to be rammed (corporate slang)\" mean?",
+    "options": [
+      "to get fired",
+      "to get a big promotion",
+      "to be transferred abroad",
+      "to be put on probation"
+    ],
+    "correct": 1,
+    "explanation": "\"To be rammed (corporate slang)\" means: to get a big promotion."
+  },
+  {
+    "id": 286,
+    "category": "Vocabulary",
+    "prompt": "What does \"outstanding (results)\" mean?",
+    "options": [
+      "poor, disappointing",
+      "excellent, remarkable",
+      "average, typical",
+      "delayed, overdue"
+    ],
+    "correct": 1,
+    "explanation": "\"Outstanding (results)\" means: excellent, remarkable."
+  },
+  {
+    "id": 287,
+    "category": "Vocabulary",
+    "prompt": "What does \"enthusiastic\" mean?",
+    "options": [
+      "full of excitement and energy",
+      "calm and indifferent",
+      "tired and unmotivated",
+      "confused and uncertain"
+    ],
+    "correct": 0,
+    "explanation": "\"Enthusiastic\" means: full of excitement and energy."
+  },
+  {
+    "id": 288,
+    "category": "Vocabulary",
+    "prompt": "What does \"the question comes from (someone)\" mean?",
+    "options": [
+      "introduces who is asking a question",
+      "ends the Q&A session",
+      "means the question was rejected",
+      "means the question was repeated"
+    ],
+    "correct": 0,
+    "explanation": "\"The question comes from (someone)\" means: introduces who is asking a question."
+  },
+  {
+    "id": 289,
+    "category": "Vocabulary",
+    "prompt": "What does \"time for one more question\" mean?",
+    "options": [
+      "signals the Q&A session is about to end",
+      "signals the meeting just started",
+      "means no questions are allowed",
+      "means the call has technical issues"
+    ],
+    "correct": 0,
+    "explanation": "\"Time for one more question\" means: signals the Q&A session is about to end."
+  },
+  {
+    "id": 290,
+    "category": "Vocabulary",
+    "prompt": "What does \"thanks to everyone\" mean?",
+    "options": [
+      "an opening phrase to greet participants",
+      "a closing phrase thanking participants",
+      "a phrase used to interrupt someone",
+      "a phrase used to disagree politely"
+    ],
+    "correct": 1,
+    "explanation": "\"Thanks to everyone\" means: a closing phrase thanking participants."
+  },
+  {
+    "id": 291,
+    "category": "Vocabulary",
+    "prompt": "What does \"welcome to... (opening a call)\" mean?",
+    "options": [
+      "a closing phrase to end a meeting",
+      "an opening phrase to start a meeting",
+      "a phrase to ask for feedback",
+      "a phrase to report a problem"
+    ],
+    "correct": 1,
+    "explanation": "\"Welcome to... (opening a call)\" means: an opening phrase to start a meeting."
+  },
+  {
+    "id": 292,
+    "category": "Vocabulary",
+    "prompt": "What does \"to get on very well with somebody\" mean?",
+    "options": [
+      "to have good chemistry/rapport with someone",
+      "to compete against someone",
+      "to avoid someone at work",
+      "to formally evaluate someone"
+    ],
+    "correct": 0,
+    "explanation": "\"To get on very well with somebody\" means: to have good chemistry/rapport with someone."
+  },
+  {
+    "id": 293,
+    "category": "Vocabulary",
+    "prompt": "What does \"to be on top of a task\" mean?",
+    "options": [
+      "to ignore a task completely",
+      "to follow it closely and stay updated",
+      "to delegate a task to someone else",
+      "to finish a task ahead of schedule only"
+    ],
+    "correct": 1,
+    "explanation": "\"To be on top of a task\" means: to follow it closely and stay updated."
+  },
+  {
+    "id": 294,
+    "category": "Vocabulary",
+    "prompt": "What does \"rare\" mean?",
+    "options": [
+      "very common",
+      "uncommon",
+      "expensive",
+      "urgent"
+    ],
+    "correct": 1,
+    "explanation": "\"Rare\" means: uncommon."
+  },
+  {
+    "id": 295,
+    "category": "Vocabulary",
+    "prompt": "What does \"weird / strange\" mean?",
+    "options": [
+      "completely normal",
+      "not normal, usually in a negative way",
+      "very professional",
+      "extremely popular"
+    ],
+    "correct": 1,
+    "explanation": "\"Weird / strange\" means: not normal, usually in a negative way."
+  },
+  {
+    "id": 296,
+    "category": "Vocabulary",
+    "prompt": "What does \"department (vs. apartment)\" mean?",
+    "options": [
+      "a unit in a residential building",
+      "an area or division of a company",
+      "a type of business contract",
+      "a formal job title"
+    ],
+    "correct": 1,
+    "explanation": "\"Department (vs. apartment)\" means: an area or division of a company."
+  },
+  {
+    "id": 297,
+    "category": "Vocabulary",
+    "prompt": "What does \"to put someone in an uncomfortable situation\" mean?",
+    "options": [
+      "to make someone feel awkward",
+      "to promote someone unexpectedly",
+      "to give someone useful advice",
+      "to thank someone publicly"
+    ],
+    "correct": 0,
+    "explanation": "\"To put someone in an uncomfortable situation\" means: to make someone feel awkward."
+  },
+  {
+    "id": 298,
+    "category": "Vocabulary",
+    "prompt": "What does \"cash flow\" mean?",
+    "options": [
+      "the movement of money in and out of a business",
+      "the total number of employees",
+      "the marketing budget only",
+      "the price of a single product"
+    ],
+    "correct": 0,
+    "explanation": "\"Cash flow\" means: the movement of money in and out of a business."
+  },
+  {
+    "id": 299,
+    "category": "Vocabulary",
+    "prompt": "What does \"invoicing\" mean?",
+    "options": [
+      "the process of billing customers",
+      "the process of hiring staff",
+      "the process of designing products",
+      "the process of shipping goods"
+    ],
+    "correct": 0,
+    "explanation": "\"Invoicing\" means: the process of billing customers."
+  },
+  {
+    "id": 300,
+    "category": "Vocabulary",
+    "prompt": "What does \"payroll\" mean?",
+    "options": [
+      "the process of paying employees",
+      "the process of training employees",
+      "the process of firing employees",
+      "the process of promoting employees"
+    ],
+    "correct": 0,
+    "explanation": "\"Payroll\" means: the process of paying employees."
+  },
+  {
+    "id": 301,
+    "category": "Vocabulary",
+    "prompt": "What does \"quality control\" mean?",
+    "options": [
+      "checking that products meet required standards",
+      "advertising products to customers",
+      "setting the price of products",
+      "shipping products internationally"
+    ],
+    "correct": 0,
+    "explanation": "\"Quality control\" means: checking that products meet required standards."
+  },
+  {
+    "id": 302,
+    "category": "Vocabulary",
+    "prompt": "What does \"recruitment\" mean?",
+    "options": [
+      "the process of hiring new employees",
+      "the process of training current staff",
+      "the process of firing underperformers",
+      "the process of promoting managers"
+    ],
+    "correct": 0,
+    "explanation": "\"Recruitment\" means: the process of hiring new employees."
+  },
+  {
+    "id": 303,
+    "category": "Vocabulary",
+    "prompt": "What does \"manufacturing\" mean?",
+    "options": [
+      "the process of making products",
+      "the process of selling products",
+      "the process of returning products",
+      "the process of pricing products"
+    ],
+    "correct": 0,
+    "explanation": "\"Manufacturing\" means: the process of making products."
+  },
+  {
+    "id": 304,
+    "category": "Vocabulary",
+    "prompt": "What does \"pricing\" mean?",
+    "options": [
+      "setting the cost of products or services",
+      "shipping products to customers",
+      "training the sales team",
+      "designing the company logo"
+    ],
+    "correct": 0,
+    "explanation": "\"Pricing\" means: setting the cost of products or services."
+  },
+  {
+    "id": 305,
+    "category": "Vocabulary",
+    "prompt": "What does \"promotion (marketing)\" mean?",
+    "options": [
+      "activities used to advertise a product",
+      "the process of hiring staff",
+      "a type of financial report",
+      "a legal business contract"
+    ],
+    "correct": 0,
+    "explanation": "\"Promotion (marketing)\" means: activities used to advertise a product."
+  },
+  {
+    "id": 306,
+    "category": "Vocabulary",
+    "prompt": "What does \"health and safety\" mean?",
+    "options": [
+      "policies that keep employees safe at work",
+      "policies about employee salaries",
+      "policies about office decoration",
+      "policies about client entertainment"
+    ],
+    "correct": 0,
+    "explanation": "\"Health and safety\" means: policies that keep employees safe at work."
+  },
+  {
+    "id": 307,
+    "category": "Vocabulary",
+    "prompt": "What does \"customer service\" mean?",
+    "options": [
+      "support and assistance given to customers",
+      "the internal accounting process",
+      "the product manufacturing process",
+      "the recruitment process"
+    ],
+    "correct": 0,
+    "explanation": "\"Customer service\" means: support and assistance given to customers."
+  },
+  {
+    "id": 308,
+    "category": "Vocabulary",
+    "prompt": "What does \"a flat organisation\" mean?",
+    "options": [
+      "a company with many levels of management",
+      "a company with few levels of management",
+      "a company with no employees",
+      "a company with only remote staff"
+    ],
+    "correct": 1,
+    "explanation": "\"A flat organisation\" means: a company with few levels of management."
+  },
+  {
+    "id": 309,
+    "category": "Vocabulary",
+    "prompt": "What does \"a tall organisation\" mean?",
+    "options": [
+      "a company with few levels of management",
+      "a company with many levels of management",
+      "a newly founded company",
+      "a company without a CEO"
+    ],
+    "correct": 1,
+    "explanation": "\"A tall organisation\" means: a company with many levels of management."
+  },
+  {
+    "id": 310,
+    "category": "Vocabulary",
+    "prompt": "What does \"a hierarchy\" mean?",
+    "options": [
+      "a system of ranked levels of authority",
+      "a type of financial statement",
+      "a marketing strategy",
+      "a legal business structure"
+    ],
+    "correct": 0,
+    "explanation": "\"A hierarchy\" means: a system of ranked levels of authority."
+  },
+  {
+    "id": 311,
+    "category": "Vocabulary",
+    "prompt": "What does \"to get a promotion\" mean?",
+    "options": [
+      "to be given a higher position at work",
+      "to be moved to a different city",
+      "to be given a pay cut",
+      "to be placed on leave"
+    ],
+    "correct": 0,
+    "explanation": "\"To get a promotion\" means: to be given a higher position at work."
+  },
+  {
+    "id": 312,
+    "category": "Vocabulary",
+    "prompt": "What does \"a centralised structure\" mean?",
+    "options": [
+      "decision-making spread across teams",
+      "decision-making concentrated at the top",
+      "no decision-making structure at all",
+      "decisions made only by clients"
+    ],
+    "correct": 1,
+    "explanation": "\"A centralised structure\" means: decision-making concentrated at the top."
+  },
+  {
+    "id": 313,
+    "category": "Vocabulary",
+    "prompt": "What does \"a decentralised structure\" mean?",
+    "options": [
+      "decision-making concentrated at the top",
+      "decision-making spread across teams",
+      "decisions made only by the CEO",
+      "decisions made only by shareholders"
+    ],
+    "correct": 1,
+    "explanation": "\"A decentralised structure\" means: decision-making spread across teams."
+  },
+  {
+    "id": 314,
+    "category": "Vocabulary",
+    "prompt": "What does \"to raise an issue\" mean?",
+    "options": [
+      "to bring up a problem for discussion",
+      "to solve a problem immediately",
+      "to ignore a problem completely",
+      "to blame someone for a problem"
+    ],
+    "correct": 0,
+    "explanation": "\"To raise an issue\" means: to bring up a problem for discussion."
+  },
+  {
+    "id": 315,
+    "category": "Vocabulary",
+    "prompt": "What does \"to follow up\" mean?",
+    "options": [
+      "to check on progress after an earlier action",
+      "to cancel a previous decision",
+      "to start a task for the first time",
+      "to delegate a task to someone else"
+    ],
+    "correct": 0,
+    "explanation": "\"To follow up\" means: to check on progress after an earlier action."
+  },
+  {
+    "id": 316,
+    "category": "Vocabulary",
+    "prompt": "What does \"a deadline\" mean?",
+    "options": [
+      "the time by which something must be finished",
+      "a type of financial penalty",
+      "an optional target date",
+      "a meeting agenda item"
+    ],
+    "correct": 0,
+    "explanation": "\"A deadline\" means: the time by which something must be finished."
+  },
+  {
+    "id": 317,
+    "category": "Vocabulary",
+    "prompt": "What does \"to reschedule\" mean?",
+    "options": [
+      "to change the date or time of something",
+      "to cancel something permanently",
+      "to approve something officially",
+      "to record something in detail"
+    ],
+    "correct": 0,
+    "explanation": "\"To reschedule\" means: to change the date or time of something."
+  },
+  {
+    "id": 318,
+    "category": "Vocabulary",
+    "prompt": "What does \"an agenda\" mean?",
+    "options": [
+      "a list of topics to discuss in a meeting",
+      "a summary written after a meeting",
+      "a formal complaint form",
+      "a list of attendees only"
+    ],
+    "correct": 0,
+    "explanation": "\"An agenda\" means: a list of topics to discuss in a meeting."
+  },
+  {
+    "id": 319,
+    "category": "Vocabulary",
+    "prompt": "What does \"to take minutes\" mean?",
+    "options": [
+      "to write notes during a meeting",
+      "to end a meeting early",
+      "to time how long a meeting lasts",
+      "to schedule a future meeting"
+    ],
+    "correct": 0,
+    "explanation": "\"To take minutes\" means: to write notes during a meeting."
+  },
+  {
+    "id": 320,
+    "category": "Vocabulary",
+    "prompt": "What does \"a recap\" mean?",
+    "options": [
+      "a short summary of what was discussed",
+      "a formal complaint",
+      "a list of action items only",
+      "a type of business contract"
+    ],
+    "correct": 0,
+    "explanation": "\"A recap\" means: a short summary of what was discussed."
+  },
+  {
+    "id": 321,
     "category": "Workplace Roles",
     "prompt": "I report ______ the Sales Director.",
     "options": [
@@ -2093,7 +4173,7 @@
     "explanation": "\"Report TO\" someone means they are your boss."
   },
   {
-    "id": 162,
+    "id": 322,
     "category": "Workplace Roles",
     "prompt": "I am in charge ______ the R&D team.",
     "options": [
@@ -2106,7 +4186,7 @@
     "explanation": "The fixed expression is \"in charge OF.\""
   },
   {
-    "id": 163,
+    "id": 323,
     "category": "Workplace Roles",
     "prompt": "I am responsible ______ coordinating the production team.",
     "options": [
@@ -2119,7 +4199,7 @@
     "explanation": "The fixed expression is \"responsible FOR.\""
   },
   {
-    "id": 164,
+    "id": 324,
     "category": "Workplace Roles",
     "prompt": "I work closely ______ the Head of Marketing.",
     "options": [
@@ -2132,7 +4212,7 @@
     "explanation": "The fixed expression is \"work closely WITH.\""
   },
   {
-    "id": 165,
+    "id": 325,
     "category": "Workplace Roles",
     "prompt": "I take care ______ the export documentation.",
     "options": [
@@ -2145,7 +4225,7 @@
     "explanation": "The fixed expression is \"take care OF.\""
   },
   {
-    "id": 166,
+    "id": 326,
     "category": "Workplace Roles",
     "prompt": "Which department handles cash flow and payroll?",
     "options": [
@@ -2158,7 +4238,7 @@
     "explanation": "Cash flow, invoicing, and payroll all belong to the Finance department."
   },
   {
-    "id": 167,
+    "id": 327,
     "category": "Workplace Roles",
     "prompt": "Which department is responsible for recruitment and health and safety?",
     "options": [
@@ -2171,7 +4251,7 @@
     "explanation": "Recruitment and health and safety are core Human Resources responsibilities."
   },
   {
-    "id": 168,
+    "id": 328,
     "category": "Workplace Roles",
     "prompt": "Which department focuses on brand image, pricing, and promotion?",
     "options": [
@@ -2184,7 +4264,7 @@
     "explanation": "Brand image, pricing, and promotion are all Marketing responsibilities."
   },
   {
-    "id": 169,
+    "id": 329,
     "category": "Workplace Roles",
     "prompt": "Which department deals with manufacturing, quality control, and supply chain?",
     "options": [
@@ -2197,7 +4277,7 @@
     "explanation": "Manufacturing, quality control, and supply chain belong to Production/Operations."
   },
   {
-    "id": 170,
+    "id": 330,
     "category": "Workplace Roles",
     "prompt": "\"My job ______ sending emails all day.\"",
     "options": [
@@ -2210,7 +4290,7 @@
     "explanation": "The fixed expression is \"my job involves\" + gerund."
   },
   {
-    "id": 171,
+    "id": 331,
     "category": "Workplace Roles",
     "prompt": "\"I look ______ the company website.\"",
     "options": [
@@ -2223,7 +4303,7 @@
     "explanation": "\"Look AFTER\" means to take care of something."
   },
   {
-    "id": 172,
+    "id": 332,
     "category": "Workplace Roles",
     "prompt": "A company with many levels of management is described as...",
     "options": [
@@ -2236,7 +4316,7 @@
     "explanation": "\"Tall organisation\" describes a hierarchy with many management levels."
   },
   {
-    "id": 173,
+    "id": 333,
     "category": "Workplace Roles",
     "prompt": "A company with few levels of management is described as...",
     "options": [
@@ -2249,7 +4329,7 @@
     "explanation": "\"Flat organisation\" describes a structure with few management levels."
   },
   {
-    "id": 174,
+    "id": 334,
     "category": "Workplace Roles",
     "prompt": "Which adjective best describes a colleague who is rarely on time and doesn't plan ahead?",
     "options": [
@@ -2262,7 +4342,7 @@
     "explanation": "\"Disorganised\" fits a colleague who doesn't plan or manage time well."
   },
   {
-    "id": 175,
+    "id": 335,
     "category": "Workplace Roles",
     "prompt": "\"I coordinate ______ all departments to ensure customer satisfaction.\"",
     "options": [
@@ -2275,7 +4355,7 @@
     "explanation": "The fixed expression is \"coordinate WITH.\""
   },
   {
-    "id": 176,
+    "id": 336,
     "category": "Workplace Roles",
     "prompt": "A leader who makes decisions quickly and confidently is...",
     "options": [
@@ -2288,7 +4368,7 @@
     "explanation": "\"Assertive\" describes confident, decisive behavior — a positive leadership trait."
   },
   {
-    "id": 177,
+    "id": 337,
     "category": "Workplace Roles",
     "prompt": "A leader who struggles to make decisions is...",
     "options": [
@@ -2301,7 +4381,7 @@
     "explanation": "\"Indecisive\" describes someone who has trouble deciding."
   },
   {
-    "id": 178,
+    "id": 338,
     "category": "Workplace Roles",
     "prompt": "\"My role is to ______ all the operational teams\" — which verb form fits after \"to\"?",
     "options": [
@@ -2314,7 +4394,7 @@
     "explanation": "After \"to,\" we use the base form of the verb: \"to lead.\""
   },
   {
-    "id": 179,
+    "id": 339,
     "category": "Workplace Roles",
     "prompt": "\"To have strategic and operational ______\" means the important tasks a role must focus on.",
     "options": [
@@ -2327,7 +4407,7 @@
     "explanation": "\"Priorities\" refers to the most important tasks or goals of a role."
   },
   {
-    "id": 180,
+    "id": 340,
     "category": "Workplace Roles",
     "prompt": "Which word describes a company that welcomes new ideas and change?",
     "options": [
@@ -2340,7 +4420,267 @@
     "explanation": "\"Innovative\" describes openness to new ideas and change."
   },
   {
-    "id": 181,
+    "id": 341,
+    "category": "Workplace Roles",
+    "prompt": "\"I am the Head ______ Sales.\"",
+    "options": [
+      "of",
+      "for",
+      "with",
+      "to"
+    ],
+    "correct": 0,
+    "explanation": "The fixed expression is \"Head OF\" a department."
+  },
+  {
+    "id": 342,
+    "category": "Workplace Roles",
+    "prompt": "\"Our team coordinates ______ Marketing on this campaign.\"",
+    "options": [
+      "for",
+      "with",
+      "of",
+      "to"
+    ],
+    "correct": 1,
+    "explanation": "The fixed expression is \"coordinate WITH.\""
+  },
+  {
+    "id": 343,
+    "category": "Workplace Roles",
+    "prompt": "\"She works closely ______ the CFO.\"",
+    "options": [
+      "with",
+      "for",
+      "of",
+      "to"
+    ],
+    "correct": 0,
+    "explanation": "The fixed expression is \"work closely WITH.\""
+  },
+  {
+    "id": 344,
+    "category": "Workplace Roles",
+    "prompt": "\"He is responsible ______ managing the budget.\"",
+    "options": [
+      "of",
+      "for",
+      "with",
+      "to"
+    ],
+    "correct": 1,
+    "explanation": "The fixed expression is \"responsible FOR.\""
+  },
+  {
+    "id": 345,
+    "category": "Workplace Roles",
+    "prompt": "\"I am in charge ______ recruitment this quarter.\"",
+    "options": [
+      "for",
+      "with",
+      "of",
+      "to"
+    ],
+    "correct": 2,
+    "explanation": "The fixed expression is \"in charge OF.\""
+  },
+  {
+    "id": 346,
+    "category": "Workplace Roles",
+    "prompt": "Which department deals with hiring and employee training?",
+    "options": [
+      "Finance",
+      "Human Resources",
+      "Production",
+      "Marketing"
+    ],
+    "correct": 1,
+    "explanation": "Hiring and training are core Human Resources responsibilities."
+  },
+  {
+    "id": 347,
+    "category": "Workplace Roles",
+    "prompt": "Which department manages pricing and promotion?",
+    "options": [
+      "Marketing",
+      "Finance",
+      "Sales",
+      "Human Resources"
+    ],
+    "correct": 0,
+    "explanation": "Pricing and promotion are Marketing responsibilities."
+  },
+  {
+    "id": 348,
+    "category": "Workplace Roles",
+    "prompt": "Which department oversees invoicing and payroll?",
+    "options": [
+      "Production",
+      "Finance",
+      "Marketing",
+      "Sales"
+    ],
+    "correct": 1,
+    "explanation": "Invoicing and payroll are core Finance responsibilities."
+  },
+  {
+    "id": 349,
+    "category": "Workplace Roles",
+    "prompt": "Which department ensures products meet quality standards?",
+    "options": [
+      "Sales",
+      "Human Resources",
+      "Production",
+      "Finance"
+    ],
+    "correct": 2,
+    "explanation": "Quality control belongs to Production/Operations."
+  },
+  {
+    "id": 350,
+    "category": "Workplace Roles",
+    "prompt": "Which department interacts directly with customers to close deals?",
+    "options": [
+      "Sales",
+      "Production",
+      "Finance",
+      "Human Resources"
+    ],
+    "correct": 0,
+    "explanation": "Closing deals with customers is the core Sales responsibility."
+  },
+  {
+    "id": 351,
+    "category": "Workplace Roles",
+    "prompt": "Which adjective describes a colleague who communicates rudely?",
+    "options": [
+      "polite",
+      "rude",
+      "organised",
+      "efficient"
+    ],
+    "correct": 1,
+    "explanation": "\"Rude\" describes impolite, disrespectful communication."
+  },
+  {
+    "id": 352,
+    "category": "Workplace Roles",
+    "prompt": "Which adjective describes someone who works well within rules and structure?",
+    "options": [
+      "organised",
+      "arrogant",
+      "indecisive",
+      "deceitful"
+    ],
+    "correct": 0,
+    "explanation": "\"Organised\" fits someone who follows structure and plans well."
+  },
+  {
+    "id": 353,
+    "category": "Workplace Roles",
+    "prompt": "A \"centralised structure\" means...",
+    "options": [
+      "decisions are spread across teams",
+      "decision-making is concentrated at the top",
+      "there is no management at all",
+      "only clients make decisions"
+    ],
+    "correct": 1,
+    "explanation": "A centralised structure concentrates decision-making at the top."
+  },
+  {
+    "id": 354,
+    "category": "Workplace Roles",
+    "prompt": "A \"decentralised structure\" means...",
+    "options": [
+      "decision-making is concentrated at the top",
+      "decisions are spread across teams",
+      "only the CEO makes decisions",
+      "there is no structure at all"
+    ],
+    "correct": 1,
+    "explanation": "A decentralised structure spreads decision-making across teams."
+  },
+  {
+    "id": 355,
+    "category": "Workplace Roles",
+    "prompt": "\"To get a promotion\" means...",
+    "options": [
+      "to be given a higher position at work",
+      "to be moved to another city",
+      "to receive a pay cut",
+      "to be placed on leave"
+    ],
+    "correct": 0,
+    "explanation": "\"To get a promotion\" means to be given a higher position at work."
+  },
+  {
+    "id": 356,
+    "category": "Workplace Roles",
+    "prompt": "\"My role is ______ lead the operational teams.\"",
+    "options": [
+      "to",
+      "for",
+      "of",
+      "at"
+    ],
+    "correct": 0,
+    "explanation": "The correct structure is \"my role is TO\" + base verb."
+  },
+  {
+    "id": 357,
+    "category": "Workplace Roles",
+    "prompt": "\"I ______ the export documentation.\"",
+    "options": [
+      "take care of",
+      "take care for",
+      "take care with",
+      "take care to"
+    ],
+    "correct": 0,
+    "explanation": "The fixed expression is \"take care OF.\""
+  },
+  {
+    "id": 358,
+    "category": "Workplace Roles",
+    "prompt": "Our company follows a flat organisation, which means...",
+    "options": [
+      "it has many levels of management",
+      "it has few levels of management",
+      "it has no employees",
+      "it only hires remotely"
+    ],
+    "correct": 1,
+    "explanation": "A flat organisation has few levels of management."
+  },
+  {
+    "id": 359,
+    "category": "Workplace Roles",
+    "prompt": "Which word describes a company where decisions are made only by top management?",
+    "options": [
+      "decentralised",
+      "centralised",
+      "innovative",
+      "flat"
+    ],
+    "correct": 1,
+    "explanation": "\"Centralised\" describes decision-making concentrated at the top."
+  },
+  {
+    "id": 360,
+    "category": "Workplace Roles",
+    "prompt": "Which department typically owns the company budget?",
+    "options": [
+      "Marketing",
+      "Finance",
+      "Sales",
+      "Human Resources"
+    ],
+    "correct": 1,
+    "explanation": "Budget management is a core Finance responsibility."
+  },
+  {
+    "id": 361,
     "category": "Advice & Listening",
     "prompt": "\"That's a great idea, I'll ______.\"",
     "options": [
@@ -2353,7 +4693,7 @@
     "explanation": "\"Advice\" is uncountable and we \"make\" (not \"take\") a decision. \"I'll think about it\" is the natural response."
   },
   {
-    "id": 182,
+    "id": 362,
     "category": "Advice & Listening",
     "prompt": "Which is correct?",
     "options": [
@@ -2366,7 +4706,7 @@
     "explanation": "The correct collocation is \"to make a decision,\" not \"to take.\""
   },
   {
-    "id": 183,
+    "id": 363,
     "category": "Advice & Listening",
     "prompt": "Which is correct?",
     "options": [
@@ -2379,7 +4719,7 @@
     "explanation": "\"Advice\" is uncountable: use \"some advice\" or \"a piece of advice,\" never \"an advice\" or \"advices.\""
   },
   {
-    "id": 184,
+    "id": 364,
     "category": "Advice & Listening",
     "prompt": "\"Have you ______ talking to him about the deadline?\"",
     "options": [
@@ -2392,7 +4732,7 @@
     "explanation": "\"Have you tried\" + past participle is the correct structure for giving advice about an attempt."
   },
   {
-    "id": 185,
+    "id": 365,
     "category": "Advice & Listening",
     "prompt": "\"Why don't you ______ ask for an extension?\"",
     "options": [
@@ -2405,7 +4745,7 @@
     "explanation": "\"Why don't you just...\" + base verb is a common way to give advice."
   },
   {
-    "id": 186,
+    "id": 366,
     "category": "Advice & Listening",
     "prompt": "Which phrase expresses a strong preference?",
     "options": [
@@ -2418,7 +4758,7 @@
     "explanation": "\"I'm keen on\" clearly expresses enthusiasm/preference for an idea."
   },
   {
-    "id": 187,
+    "id": 367,
     "category": "Advice & Listening",
     "prompt": "\"I'd rather ______ the meeting for next week.\"",
     "options": [
@@ -2431,7 +4771,7 @@
     "explanation": "\"I'd rather\" is followed by the base form of the verb, with no \"to.\""
   },
   {
-    "id": 188,
+    "id": 368,
     "category": "Advice & Listening",
     "prompt": "\"We'd prefer it if you ______ us the details in advance.\"",
     "options": [
@@ -2444,7 +4784,7 @@
     "explanation": "After \"prefer it if,\" we typically use a past form for a polite, hypothetical request: \"emailed.\""
   },
   {
-    "id": 189,
+    "id": 369,
     "category": "Advice & Listening",
     "prompt": "Which phrase is used to check understanding?",
     "options": [
@@ -2457,7 +4797,7 @@
     "explanation": "\"I'm not clear about...\" is used specifically to check/confirm understanding."
   },
   {
-    "id": 190,
+    "id": 370,
     "category": "Advice & Listening",
     "prompt": "Which phrase is used to correct a misunderstanding?",
     "options": [
@@ -2470,7 +4810,7 @@
     "explanation": "\"Sorry, that's not what I meant\" is a correcting phrase."
   },
   {
-    "id": 191,
+    "id": 371,
     "category": "Advice & Listening",
     "prompt": "Which phrase gives feedback on someone's emotion?",
     "options": [
@@ -2483,7 +4823,7 @@
     "explanation": "\"I can see you are (unhappy/frustrated)\" is a feedback phrase acknowledging emotion."
   },
   {
-    "id": 192,
+    "id": 372,
     "category": "Advice & Listening",
     "prompt": "\"If it were up to me, I'd ______ the red one.\"",
     "options": [
@@ -2496,7 +4836,7 @@
     "explanation": "After \"I'd\" (I would), we use the base form of the verb: \"choose.\""
   },
   {
-    "id": 193,
+    "id": 373,
     "category": "Advice & Listening",
     "prompt": "Which adjective describes someone who explains ideas clearly?",
     "options": [
@@ -2509,7 +4849,7 @@
     "explanation": "\"Articulate\" means able to express ideas clearly and effectively."
   },
   {
-    "id": 194,
+    "id": 374,
     "category": "Advice & Listening",
     "prompt": "Which adjective describes someone who convinces others easily?",
     "options": [
@@ -2522,7 +4862,7 @@
     "explanation": "\"Persuasive\" describes someone skilled at convincing others."
   },
   {
-    "id": 195,
+    "id": 375,
     "category": "Advice & Listening",
     "prompt": "\"It's important to keep neutral\" — what does \"keep neutral\" mean here?",
     "options": [
@@ -2535,7 +4875,7 @@
     "explanation": "\"Keep neutral\" means to remain impartial and not show strong emotion."
   },
   {
-    "id": 196,
+    "id": 376,
     "category": "Advice & Listening",
     "prompt": "\"To find a middle ground\" means...",
     "options": [
@@ -2548,7 +4888,7 @@
     "explanation": "\"Middle ground\" refers to a compromise between two different opinions."
   },
   {
-    "id": 197,
+    "id": 377,
     "category": "Advice & Listening",
     "prompt": "\"To bump into someone\" means...",
     "options": [
@@ -2561,7 +4901,7 @@
     "explanation": "\"Bump into\" means to encounter someone unexpectedly."
   },
   {
-    "id": 198,
+    "id": 378,
     "category": "Advice & Listening",
     "prompt": "\"To talk something through\" means...",
     "options": [
@@ -2574,7 +4914,7 @@
     "explanation": "\"Talk something through\" means to resolve an issue by discussing it in detail."
   },
   {
-    "id": 199,
+    "id": 379,
     "category": "Advice & Listening",
     "prompt": "\"To get held up\" means...",
     "options": [
@@ -2587,7 +4927,7 @@
     "explanation": "\"To get held up\" means to be delayed or stopped temporarily."
   },
   {
-    "id": 200,
+    "id": 380,
     "category": "Advice & Listening",
     "prompt": "Which modal verb is most appropriate for giving polite advice?",
     "options": [
@@ -2598,5 +4938,265 @@
     ],
     "correct": 1,
     "explanation": "\"Should\" is the standard modal verb for giving advice politely."
+  },
+  {
+    "id": 381,
+    "category": "Advice & Listening",
+    "prompt": "Which phrase is used for summarizing/paraphrasing what someone said?",
+    "options": [
+      "Why don't you tell me a bit more?",
+      "So, we had a disagreement with your manager.",
+      "I can see you are frustrated.",
+      "Sorry, that's not what I meant."
+    ],
+    "correct": 1,
+    "explanation": "Starting with \"So, we...\" to restate what was said is a summarizing/paraphrasing phrase."
+  },
+  {
+    "id": 382,
+    "category": "Advice & Listening",
+    "prompt": "\"To keep neutral\" in a discussion means...",
+    "options": [
+      "to argue as strongly as possible",
+      "to stay impartial and avoid strong reactions",
+      "to end the discussion immediately",
+      "to agree with everyone automatically"
+    ],
+    "correct": 1,
+    "explanation": "\"Keep neutral\" means to remain impartial and calm."
+  },
+  {
+    "id": 383,
+    "category": "Advice & Listening",
+    "prompt": "Which adjective describes a leader who understands others' feelings?",
+    "options": [
+      "empathetic",
+      "arrogant",
+      "deceitful",
+      "indecisive"
+    ],
+    "correct": 0,
+    "explanation": "\"Empathetic\" describes understanding and sharing others' feelings."
+  },
+  {
+    "id": 384,
+    "category": "Advice & Listening",
+    "prompt": "Which adjective describes someone skilled with technology?",
+    "options": [
+      "tech-savvy",
+      "goal-oriented",
+      "assertive",
+      "customer-centric"
+    ],
+    "correct": 0,
+    "explanation": "\"Tech-savvy\" describes someone comfortable and skilled with technology."
+  },
+  {
+    "id": 385,
+    "category": "Advice & Listening",
+    "prompt": "Which adjective describes a leader who is overly proud of themselves?",
+    "options": [
+      "supportive",
+      "arrogant",
+      "insightful",
+      "proactive"
+    ],
+    "correct": 1,
+    "explanation": "\"Arrogant\" describes excessive pride or self-importance."
+  },
+  {
+    "id": 386,
+    "category": "Advice & Listening",
+    "prompt": "Which adjective describes someone dishonest or untrustworthy?",
+    "options": [
+      "deceitful",
+      "articulate",
+      "persuasive",
+      "empathetic"
+    ],
+    "correct": 0,
+    "explanation": "\"Deceitful\" describes someone who deliberately misleads others."
+  },
+  {
+    "id": 387,
+    "category": "Advice & Listening",
+    "prompt": "\"I don't mind what we do\" expresses...",
+    "options": [
+      "a strong objection",
+      "a lack of strong preference / flexibility",
+      "anger about the decision",
+      "a firm refusal"
+    ],
+    "correct": 1,
+    "explanation": "\"I don't mind\" signals flexibility and no strong preference."
+  },
+  {
+    "id": 388,
+    "category": "Advice & Listening",
+    "prompt": "\"We're happy to work around your needs\" expresses...",
+    "options": [
+      "a refusal to compromise",
+      "willingness to accommodate the other person",
+      "confusion about the request",
+      "a formal complaint"
+    ],
+    "correct": 1,
+    "explanation": "This phrase expresses willingness to accommodate someone else's needs."
+  },
+  {
+    "id": 389,
+    "category": "Advice & Listening",
+    "prompt": "\"My preference would be not to...\" is used to...",
+    "options": [
+      "strongly demand something",
+      "politely state what you'd rather avoid",
+      "accept an idea enthusiastically",
+      "end a conversation abruptly"
+    ],
+    "correct": 1,
+    "explanation": "This phrase politely expresses what someone would prefer to avoid."
+  },
+  {
+    "id": 390,
+    "category": "Advice & Listening",
+    "prompt": "\"Is there anything I need to be concerned about?\" is an example of...",
+    "options": [
+      "correcting",
+      "clarifying/exploring",
+      "giving feedback",
+      "summarizing"
+    ],
+    "correct": 1,
+    "explanation": "This question is used to clarify or explore a situation further."
+  },
+  {
+    "id": 391,
+    "category": "Advice & Listening",
+    "prompt": "\"I can see you are frustrated\" is an example of...",
+    "options": [
+      "clarifying/exploring",
+      "correcting",
+      "giving feedback",
+      "checking understanding"
+    ],
+    "correct": 2,
+    "explanation": "Acknowledging someone's emotion is an example of giving feedback."
+  },
+  {
+    "id": 392,
+    "category": "Advice & Listening",
+    "prompt": "\"Sorry, I don't understand what you said about...\" is an example of...",
+    "options": [
+      "correcting",
+      "giving feedback",
+      "checking understanding",
+      "summarizing"
+    ],
+    "correct": 2,
+    "explanation": "This phrase is used specifically to check understanding."
+  },
+  {
+    "id": 393,
+    "category": "Advice & Listening",
+    "prompt": "Which phrase politely disagrees while remaining professional?",
+    "options": [
+      "That's not what I meant.",
+      "I'd prefer to try to find consensus.",
+      "I don't care either way.",
+      "You're wrong about that."
+    ],
+    "correct": 1,
+    "explanation": "This phrase disagrees diplomatically by proposing to find common ground."
+  },
+  {
+    "id": 394,
+    "category": "Advice & Listening",
+    "prompt": "\"To have concerns about something\" means...",
+    "options": [
+      "to feel confident about it",
+      "to feel worried or unsure about it",
+      "to be excited about it",
+      "to be indifferent to it"
+    ],
+    "correct": 1,
+    "explanation": "\"To have concerns\" means to feel worried or unsure about something."
+  },
+  {
+    "id": 395,
+    "category": "Advice & Listening",
+    "prompt": "Which modal verb expresses a stronger obligation than \"should\"?",
+    "options": [
+      "might",
+      "could",
+      "must",
+      "would"
+    ],
+    "correct": 2,
+    "explanation": "\"Must\" expresses stronger obligation than the more advisory \"should.\""
+  },
+  {
+    "id": 396,
+    "category": "Advice & Listening",
+    "prompt": "Which modal verb expresses possibility rather than obligation?",
+    "options": [
+      "must",
+      "should",
+      "might",
+      "shall"
+    ],
+    "correct": 2,
+    "explanation": "\"Might\" expresses possibility, not obligation."
+  },
+  {
+    "id": 397,
+    "category": "Advice & Listening",
+    "prompt": "\"To be involved in something\" means...",
+    "options": [
+      "to take an active part in it",
+      "to avoid it completely",
+      "to criticize it publicly",
+      "to end it early"
+    ],
+    "correct": 0,
+    "explanation": "\"To be involved in\" means to take an active part in something."
+  },
+  {
+    "id": 398,
+    "category": "Advice & Listening",
+    "prompt": "\"Why did you have concerns about...?\" is asking...",
+    "options": [
+      "for the reason behind a worry",
+      "for a formal apology",
+      "for a final decision",
+      "for a summary of the meeting"
+    ],
+    "correct": 0,
+    "explanation": "This question asks for the reason behind someone's concern."
+  },
+  {
+    "id": 399,
+    "category": "Advice & Listening",
+    "prompt": "\"That sounds like a good idea\" is a way to...",
+    "options": [
+      "reject advice firmly",
+      "respond positively to advice",
+      "correct a misunderstanding",
+      "express strong disagreement"
+    ],
+    "correct": 1,
+    "explanation": "This is a standard way to respond positively to advice."
+  },
+  {
+    "id": 400,
+    "category": "Advice & Listening",
+    "prompt": "\"OK, I'll think about it\" signals...",
+    "options": [
+      "immediate enthusiastic agreement",
+      "hesitant, non-committal acceptance of advice",
+      "firm refusal of the advice",
+      "a request for more advice"
+    ],
+    "correct": 1,
+    "explanation": "This phrase signals hesitant, non-committal acceptance rather than firm agreement."
   }
 ]
