@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>English Exam Warm-Up</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <span class="brand">Exam Warm-Up</span>
+    <span class="bank-note" id="bankNote">200-question bank</span>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <section id="startScreen" class="screen">
+    <h1>Ready to warm up?</h1>
+    <p class="sub">Each round pulls 20 random questions from a bank of 200 — Present Perfect, future forms, call vocabulary, workplace roles, and advice &amp; listening phrases.</p>
+    <button id="startBtn" class="btn-primary">Start a new round</button>
+    <div class="legend">
+      <span class="tag tag-pp">Present Perfect</span>
+      <span class="tag tag-ff">Future Forms</span>
+      <span class="tag tag-voc">Vocabulary</span>
+      <span class="tag tag-role">Workplace Roles</span>
+      <span class="tag tag-adv">Advice &amp; Listening</span>
+    </div>
+  </section>
+
+  <section id="quizScreen" class="screen hidden">
+    <div class="progress-row">
+      <span id="progressLabel">Question 1 of 20</span>
+      <div class="progress-track"><div id="progressFill" class="progress-fill"></div></div>
+    </div>
+
+    <div id="questionCard" class="q-card">
+      <span id="catTag" class="tag"></span>
+      <h2 id="promptText" class="prompt"></h2>
+      <div id="optionsList" class="options"></div>
+      <p id="feedbackText" class="feedback hidden"></p>
+      <button id="hintBtn" class="btn-ghost">Show a hint</button>
+      <p id="hintText" class="hint hidden"></p>
+    </div>
+
+    <div class="nav-row">
+      <button id="nextBtn" class="btn-primary hidden">Next question</button>
+    </div>
+  </section>
+
+  <section id="resultScreen" class="screen hidden">
+    <h1 id="scoreHeadline"></h1>
+    <p id="scoreSub" class="sub"></p>
+    <div id="reviewList" class="review-list"></div>
+    <button id="restartBtn" class="btn-primary">Start another round</button>
+  </section>
+
+</main>
+
+<script src="script.js"></script>
+</body>
+</html>
